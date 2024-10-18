@@ -13,7 +13,7 @@ Comparative study of Large Language Model (LLM) evaluation frameworks, focusing 
 3. Create a new branch for your work:
    ```bash
    git checkout -b feature-name
-5. Push your changes: `
+5. Push your changes:
    ```bash
    git push origin feature-name
 7. create a pull request for review.
