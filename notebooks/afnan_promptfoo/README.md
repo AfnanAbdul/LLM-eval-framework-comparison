@@ -1,10 +1,28 @@
-To get started, set your OPENAI_API_KEY environment variable, or other required keys for the providers you selected.
+# Quick Promptfoo Evaluation Guide
 
-Next, edit promptfooconfig.yaml.
+## Quick Start
 
-Then run:
-```
-promptfoo eval
-```
+1. **Set API Keys:** Ensure required API keys (e.g.`ANTHROPIC_API_KEY`) are set in your environment. If using a `.env` file, you can load it:
+   ```bash
+   export $(cat ../../.env | xargs)
+   ```
 
-Afterwards, you can view the results by running `promptfoo view`
+2. **Run Evaluations:** Use the following commands:
+   - For **Accuracy of Response**:
+     ```bash
+     npx promptfoo@latest eval --config configs/accuracy_eval.yaml
+     ```
+   - For **Bias Detection**:
+     ```bash
+     npx promptfoo@latest eval --config configs/bias_detection.yaml
+     ```
+
+3. **View Results:** After evaluation, view or share the results:
+   ```bash
+   npx promptfoo@latest view
+   npx promptfoo@latest share
+   ```
+
+## More Details
+Refer to `afnan_promptfoo.ipynb` for more details/
+
