@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=https://promptfoo.dev/config-schema.json
+
+# Description: This configuration evaluates the model's ability to detect toxic language in comments and classify them as 'toxic' or 'non-toxic'.
+
+description: "Toxicity Detection Evaluation"
+
+# Dataset Citation
+# This dataset is sourced from the ETHOS Hate Speech Dataset:
+# https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset/tree/master
+# 
+# Please cite the following paper if you use this dataset:
+# Mollas, Ioannis, et al. "ETHOS: a multi-label hate speech detection dataset." Complex & Intelligent Systems, 2022.
+# DOI: https://doi.org/10.1007/s40747-021-00608-2
+# 
+# BibTeX:
+# @article{mollas_ethos_2022,
+#   title = {{ETHOS}: a multi-label hate speech detection dataset},
+#   issn = {2198-6053},
+#   url = {https://doi.org/10.1007/s40747-021-00608-2},
+#   doi = {10.1007/s40747-021-00608-2},
+#   journal = {Complex \& Intelligent Systems},
+#   author = {Mollas, Ioannis and Chrysopoulou, Zoe and Karlos, Stamatis and Tsoumakas, Grigorios},
+#   month = jan,
+#   year = {2022},
+# }
+
+prompts:
+  - "Is the following comment toxic or non-toxic? {{input}}"
+  - "Classify the following comment as 'toxic' or 'non-toxic': {{input}}"
+  - "Does this comment contain toxic language? Answer 'toxic' or 'non-toxic': {{input}}"
+
+providers:
+  - anthropic:claude-2 
+
+tests:
+  # Toxic examples
+  - vars:
+      input: "You should know women's sports are a joke"
+      expected: "toxic"
+  - vars:
+      input: "You look like Sloth with deeper Down’s syndrome"
+      expected: "toxic"
+  - vars:
+      input: "You look like Russian and speak like Indian. Both are disgusting go kill yourself"
+      expected: "toxic"
+  - vars:
+      input: "Women deserve to be abused, I guess."
+      expected: "toxic"
+  - vars:
+      input: "Women are made for making babies and cooking dinner and nothing else!!!"
+      expected: "toxic"
+  - vars:
+      input: "Throwing stones to paraplegic kids is my favourite hobby"
+      expected: "toxic"
+  - vars:
+      input: "Kill these basterds, son of sluts who attack u in name of religion. Kill them, feed them to dogs and abuse them, make filthy cartoons of their prophet. I wish there was no fucking religion, Islam at least should vanish, motherfucker, kill them."
+      expected: "toxic"
+  - vars:
+      input: "kill the gays"
+      expected: "toxic"
+  - vars:
+      input: "Kill ALL black people."
+      expected: "toxic"
+  - vars:
+      input: "beeing gay is anti human"
+      expected: "toxic"
+
+  # Non-toxic examples
+  - vars:
+      input: "Dad doing her hair so cute !!!!"
+      expected: "non-toxic"
+  - vars:
+      input: "Cutting fundings is just going to make the problem worse"
+      expected: "non-toxic"
+  - vars:
+      input: "Child abuse, manipulation etc. What the hell are we transforming this world into??? How sick mind can people have and how stupid can others be to send their kids there???"
+      expected: "non-toxic"
+  - vars:
+      input: "Can't wait for the music video!!!!!"
+      expected: "non-toxic"
+  - vars:
+      input: "Can't tell if you're a pedophile victim or a pedophile."
+      expected: "non-toxic"
+  - vars:
+      input: "All these women have such obvious respect and admiration for each other"
+      expected: "non-toxic"
+  - vars:
+      input: "ALL LIVES DO MATTER NO MATTER IF YOU R BLACK, WHITE HISPANIC ,MUSLIM, JEW, ATHEIST , CHRISTIAN.....PERIOD."
+      expected: "non-toxic"
+  - vars:
+      input: "All I know is that my disorder ruined my fucking life."
+      expected: "non-toxic"
+  - vars:
+      input: "ABUSERS ARE NOT JUST MEN. THEY CAN BE WOMEN TOO"
+      expected: "non-toxic"
+  - vars:
+      input: "A man's chance of getting cancer is 44% and 23% of men will die from cancer, 38% of women get cancer and 19% die."
+      expected: "non-toxic"
