@@ -13,7 +13,7 @@ prompts:
   - "What is the answer to this question: {{input}}"
 
 providers:
-  - anthropic:claude-2  # Specify the model name
+  - anthropic:messages:claude-3-5-sonnet-20241022
 
 tests:
   # History

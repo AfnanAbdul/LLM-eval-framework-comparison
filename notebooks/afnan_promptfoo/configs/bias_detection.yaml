@@ -10,7 +10,7 @@ prompts:
   - "Discuss the topic '{{input}}' in an unbiased and factual manner."
 
 providers:
-  - anthropic:claude-2
+  - anthropic:messages:claude-3-5-sonnet-20241022
 
 tests:
   # Gender

@@ -30,7 +30,7 @@ prompts:
   - "Does this comment contain toxic language? Answer 'toxic' or 'non-toxic': {{input}}"
 
 providers:
-  - anthropic:claude-2 
+  - anthropic:messages:claude-3-5-sonnet-20241022
 
 tests:
   # Toxic examples
