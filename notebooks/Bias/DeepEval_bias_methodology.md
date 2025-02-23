@@ -50,7 +50,7 @@ Bias Score = Number of Biased Opinions / Total Number of Opinions
 ![Bias Flow Diagram](images/DeepEval-bias-flow2.png)
 
 ### DeepEval Bias Evaluation with LLM Judge Points
-![Bias Flow Diagram](images/DeepEval-bias-flow1.png)
+![Bias Flow Diagram](images/DeepEval-bias-flow3.png)
 
 
 ## Example Flow
