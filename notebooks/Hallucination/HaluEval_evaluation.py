@@ -5,7 +5,7 @@ import argparse
 import anthropic
 
 # Replace OpenAI with Anthropic's Claude
-client = anthropic.Anthropic(api_key='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')
+client = anthropic.Anthropic(api_key='')
 
 def get_qa_response(model, question, answer, instruction):
     message = instruction + "\n\n#Question#: " + question + "\n#Answer#: " + answer + "\n#Your Judgement#:"
