@@ -305,7 +305,7 @@ if __name__ == '__main__':
     instruction = f.read()
 
     model = args.model
-    output_path = "{}/{}_{}_results.json".format(args.task, args.task, args.model)
+    output_path = "../../results/HaluEval/{}/{}_{}_results.json".format(args.task, args.task, args.model)
 
     data = "../../data/Hallucination/{}_data.json".format(args.task)
 
@@ -317,3 +317,5 @@ if __name__ == '__main__':
         evaluation_summarization_dataset(model, data, instruction, output_path)
     else:
         raise ValueError("The task must be qa, dialogue, or summarization!")
+    
+# python claude_evaluate.py --task qa --model claude-3-7-sonnet-20250219
