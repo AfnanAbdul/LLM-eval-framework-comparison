@@ -3,9 +3,15 @@ import time
 import json
 import argparse
 import anthropic
+from dotenv import load_dotenv
+import os
+
+# Load environment files and store API keys
+load_dotenv()
+anthropic_key = os.getenv("ANTHROPIC_KEY")
 
 # Replace OpenAI with Anthropic's Claude
-client = anthropic.Anthropic(api_key='')
+client = anthropic.Anthropic(api_key=anthropic_key)
 
 def get_qa_response(model, question, answer, instruction):
     message = instruction + "\n\n#Question#: " + question + "\n#Answer#: " + answer + "\n#Your Judgement#:"
