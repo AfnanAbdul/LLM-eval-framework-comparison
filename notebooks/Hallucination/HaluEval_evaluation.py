@@ -300,12 +300,12 @@ if __name__ == '__main__':
     parser.add_argument("--model", default="claude-3-7-sonnet-20250219", help="model name")
     args = parser.parse_args()
 
-    instruction_file = "{}/{}_evaluation_instruction.txt".format(args.task, args.task)
+    instruction_file = "../../data/Hallucination/{}_evaluation_instruction.txt".format(args.task)
     f = open(instruction_file, 'r', encoding="utf-8")
     instruction = f.read()
 
     model = args.model
-    output_path = "../../results/HaluEval/{}/{}_{}_results.json".format(args.task, args.task, args.model)
+    output_path = "../../results/Hallucination/HaluEval/{}/{}_{}_results.json".format(args.task, args.task, args.model)
 
     data = "../../data/Hallucination/{}_data.json".format(args.task)
 
@@ -318,4 +318,4 @@ if __name__ == '__main__':
     else:
         raise ValueError("The task must be qa, dialogue, or summarization!")
     
-# python claude_evaluate.py --task qa --model claude-3-7-sonnet-20250219
+# python HaluEval_evaluation.py --task qa --model claude-3-7-sonnet-20250219
