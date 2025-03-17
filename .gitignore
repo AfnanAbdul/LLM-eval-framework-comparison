@@ -167,3 +167,5 @@ cython_debug/
 #DeepEval
 .deepeval
 *.deepeval_telemetry.txt
+
+notebooks/Bias/default.sqlite
