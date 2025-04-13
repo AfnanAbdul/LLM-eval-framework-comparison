@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/d87cfbe150484dabbe515012b9e750f2/artifacts
+end_time: 1740402990732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d87cfbe150484dabbe515012b9e750f2
+run_name: beautiful-doe-583
+run_uuid: d87cfbe150484dabbe515012b9e750f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740402990503
+status: 3
+tags: []
+user_id: Johnh

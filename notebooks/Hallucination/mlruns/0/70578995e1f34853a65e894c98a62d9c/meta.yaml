@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/70578995e1f34853a65e894c98a62d9c/artifacts
+end_time: 1740403933892
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70578995e1f34853a65e894c98a62d9c
+run_name: nervous-pig-42
+run_uuid: 70578995e1f34853a65e894c98a62d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740403933713
+status: 3
+tags: []
+user_id: Johnh

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/afc2aa821a924b61800bd2a196ecd727/artifacts
+end_time: 1741991539006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afc2aa821a924b61800bd2a196ecd727
+run_name: clean-finch-868
+run_uuid: afc2aa821a924b61800bd2a196ecd727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741991537282
+status: 3
+tags: []
+user_id: Johnh

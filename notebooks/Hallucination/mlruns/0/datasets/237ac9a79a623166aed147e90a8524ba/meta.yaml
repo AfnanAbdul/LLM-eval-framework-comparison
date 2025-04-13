@@ -1,0 +1,9 @@
+digest: f1eb95d9
+name: dataset
+profile: '{"num_rows": 2, "num_elements": 6}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "string", "name": "context", "required": true}, {"type": "string", "name":
+  "predictions", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Johnh", "mlflow.source.name": "C:\\Users\\Johnh\\AppData\\Roaming\\Python\\Python313\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

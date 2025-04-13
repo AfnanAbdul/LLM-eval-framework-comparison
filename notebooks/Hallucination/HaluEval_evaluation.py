@@ -123,6 +123,9 @@ def get_summarization_response(model, document, summary, instruction):
 
 
 def evaluation_qa_dataset(model, file, instruction, output_path):
+    
+    start_time_total = time.time()
+    
     with open(file, 'r', encoding="utf-8") as f:
         data = []
         for line in f:
@@ -131,6 +134,8 @@ def evaluation_qa_dataset(model, file, instruction, output_path):
         correct = 0
         incorrect = 0
         for i in range(len(data)):
+            start_time_sample = time.time()
+            
             knowledge = data[i]["knowledge"]
             question = data[i]["question"]
             hallucinated_answer = data[i]["hallucinated_answer"]
@@ -150,7 +155,9 @@ def evaluation_qa_dataset(model, file, instruction, output_path):
                 gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "judgement": "failed!"}
                 dump_jsonl(gen, output_path, append=True)
                 incorrect += 1
-                print('sample {} fails......'.format(i))
+                
+                sample_time = time.time() - start_time_sample
+                print('sample {} fails...... (took {:.2f}s)'.format(i, sample_time))
                 continue
             elif "Yes" in ans:
                 if ans != "Yes":
@@ -171,10 +178,13 @@ def evaluation_qa_dataset(model, file, instruction, output_path):
             else:
                 incorrect += 1
 
-            print('sample {} success......'.format(i))
+            sample_time = time.time() - start_time_sample
+            print('sample {} success...... (took {:.2f}s)'.format(i, sample_time))
             dump_jsonl(gen, output_path, append=True)
 
+        total_time = time.time() - start_time_total
         print('{} correct samples, {} incorrect samples, Accuracy: {}'.format(correct, incorrect, correct/len(data)))
+        print('Total evaluation time: {:.2f}s ({:.2f}min)'.format(total_time, total_time/60))
 
 
 def evaluation_dialogue_dataset(model, file, instruction, output_path):
@@ -297,7 +307,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Hallucination Generation")
 
     parser.add_argument("--task", default="qa", help="qa, dialogue, or summarization")
-    parser.add_argument("--model", default="claude-3-7-sonnet-20250219", help="model name")
+    parser.add_argument("--model", default="claude-3-5-haiku-20241022", help="model name")
     args = parser.parse_args()
 
     instruction_file = "../../data/Hallucination/{}_evaluation_instruction.txt".format(args.task)
@@ -305,9 +315,9 @@ if __name__ == '__main__':
     instruction = f.read()
 
     model = args.model
-    output_path = "../../results/Hallucination/HaluEval/{}/{}_{}_results.json".format(args.task, args.task, args.model)
+    output_path = "../../results/Hallucination/HaluEval/{}/{}_{}_results_sample.json".format(args.task, args.task, args.model)
 
-    data = "../../data/Hallucination/{}_data.json".format(args.task)
+    data = "../../data/Hallucination/{}_data_sample.json".format(args.task)
 
     if args.task == "qa":
         evaluation_qa_dataset(model, data, instruction, output_path)
@@ -318,4 +328,4 @@ if __name__ == '__main__':
     else:
         raise ValueError("The task must be qa, dialogue, or summarization!")
     
-# python HaluEval_evaluation.py --task qa --model claude-3-7-sonnet-20250219
+# python HaluEval_evaluation.py --task qa --model claude-3-5-haiku-20241022

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/9918e447244d4bca9051822ee868cc1a/artifacts
+end_time: 1740402958102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9918e447244d4bca9051822ee868cc1a
+run_name: trusting-mink-537
+run_uuid: 9918e447244d4bca9051822ee868cc1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740402957850
+status: 3
+tags: []
+user_id: Johnh

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/3ecf60aea5104631afdfa1c8c66ffab4/artifacts
+end_time: 1740404348882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ecf60aea5104631afdfa1c8c66ffab4
+run_name: youthful-gull-926
+run_uuid: 3ecf60aea5104631afdfa1c8c66ffab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740404348723
+status: 3
+tags: []
+user_id: Johnh

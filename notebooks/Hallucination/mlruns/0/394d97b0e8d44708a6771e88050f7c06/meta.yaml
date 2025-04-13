@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Johnh/OneDrive/Desktop/MSDS/Capstone/LLM-eval-framework-comparison/notebooks/Hallucination/mlruns/0/394d97b0e8d44708a6771e88050f7c06/artifacts
+end_time: 1740403864257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 394d97b0e8d44708a6771e88050f7c06
+run_name: angry-bass-993
+run_uuid: 394d97b0e8d44708a6771e88050f7c06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740403864020
+status: 4
+tags: []
+user_id: Johnh
