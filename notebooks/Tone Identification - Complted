@@ -1,0 +1,100 @@
+Text,Overall Tone,Specific Tone,Watson_Predicted_Tone,Confidence,VADER_Compound_Score,VADER_Predicted,LLM Detailed Tone,LLM Basic Tone
+I can't believe how amazing this concert is!,Positive,Excited,excited,0.732796,-0.521,Negative,excited,positive
+"Ugh, the traffic today is unbearable.",Negative,Frustrated,sad,0.784093,-0.4215,Negative,frustrated,negative
+Could you be any more incompetent?,Negative,Impolite,sad,0.637881,-0.5256,Negative,Frustrated,negative
+Thank you so much for your assistance.,Positive,Polite,polite,0.311965,0.3612,Positive,polite,Positive
+Hearing about her loss breaks my heart.,Negative,Sad,sad,0.937166,0.4404,Positive,Sympathetic,negative
+I'm completely happy with the service provided.,Positive,Satisfied,polite,0.326424,0.6115,Positive,satisfied,Positive
+I understand how difficult this must be for you.,Neutral,Sympathetic,sad,0.294882,-0.3612,Negative,Sympathetic,Positive
+"Wow, this is the best news I've heard all week!",Positive,Excited,excited,0.544107,0.8516,Positive,excited,Positive
+It's so annoying when people don't follow instructions.,Negative,Frustrated,frustrated,0.792424,-0.4576,Negative,Frustrated,negative
+"Ugh, your behavior is absolutely unacceptable.",Negative,Impolite,frustrated,0.797469,-0.7264,Negative,Frustrated,Negative
+I appreciate your prompt response to my query.,Positive,Polite,polite,0.510273,0.4019,Positive,Polite,Positive
+The ending of that movie left me feeling so upset.,Negative,Sad,sad,0.514449,-0.4341,Negative,Frustrated,negative
+The meal was delightful; I'm very satiated.,Positive,Satisfied,excited,0.738984,0.5859,Positive,satisfied,Positive
+I'm here for you during this tough time.,Neutral,Sympathetic,polite,0.255796,-0.1593,Negative,Sympathetic,Positive
+This surprise party is the best event ever!,Positive,Excited,excited,0.505113,0.8516,Positive,excited,positive
+Dealing with this malfunctioning equipment is so annoying.,Negative,Frustrated,frustrated,0.811055,-0.541,Negative,Frustrated,negative
+I can't believe you just said that to me.,Negative,Impolite,sad,0.332076,0.0,Neutral,Frustrated,negative
+Your assistance has been invaluable; thank you.,Positive,Polite,polite,0.214247,0.3612,Positive,polite,Positive
+Losing my pet has left me heartbroken.,Negative,Sad,sad,0.970763,-0.7845,Negative,sad,negative
+The product exceeded my expectations; I'm very pleased.,Positive,Satisfied,excited,0.621639,0.4927,Positive,satisfied,positive
+I can't imagine the pain you're going through.,Neutral,Sympathetic,sad,0.677314,0.4023,Positive,Sympathetic,Neutral
+This rollercoaster ride is unbelievably fun!,Positive,Excited,sad,0.438799,0.5974,Positive,excited,positive
+Why does this application keep crashing? It's so displeasing.,Negative,Frustrated,polite,0.214867,0.0,Neutral,frustrated,negative
+That's the dumbest idea I've ever heard.,Negative,Impolite,frustrated,0.564785,-0.5106,Negative,Impolite,negative
+I would be grateful if you could send the report by tomorrow.,Neutral,Polite,polite,0.743343,0.4588,Positive,Polite,Neutral
+The news of the disaster left the entire community feeling down.,Negative,Sad,sad,0.441685,-0.5574,Negative,sad,negative
+I'm thoroughly pleased with the outcome of the project.,Positive,Satisfied,excited,0.800083,0.4927,Positive,satisfied,Positive
+Please accept my heartfelt condolences for your loss.,Neutral,Sympathetic,sad,0.627654,0.7269,Positive,Sympathetic,Neutral
+I can't wait to start my new job next week!,Positive,Excited,sad,0.301044,0.0,Neutral,excited,Positive
+It's infuriating when people are late to meetings.,Negative,Frustrated,frustrated,0.787611,-0.5267,Negative,Frustrated,negative
+What a ridiculous thing to say.,Negative,Impolite,frustrated,0.49718,-0.3612,Negative,Frustrated,negative
+Your cooperation in this matter is greatly appreciated.,Neutral,Polite,satisfied,0.649188,0.5744,Positive,Polite,Positive
+The melancholy tune made everyone in the room feel down.,Negative,Sad,excited,0.359056,-0.4404,Negative,sad,negative
+"After a long day, a warm bath makes me feel nice and relaxed.",Neutral,Satisfied,excited,0.934962,0.7845,Positive,satisfied,Positive
+I'm deeply sorry for the challenges you're facing.,Neutral,Sympathetic,sad,0.484695,-0.0754,Negative,Sympathetic,Positive
+The thrill of skydiving is amazing!,Positive,Excited,sad,0.478673,0.7644,Positive,excited,positive
+It's so annoying when the internet connection drops during a call.,Negative,Frustrated,sad,0.576404,-0.4576,Negative,frustrated,negative
+I can't stand your constant whining.,Negative,Impolite,frustrated,0.742429,-0.2263,Negative,Frustrated,negative
+Your attention to detail is commendable; thank you.,Neutral,Polite,polite,0.280651,0.3612,Positive,Polite,Positive
+The tragic news of his passing left me profoundly upset.,Negative,Sad,sad,0.847282,-0.6808,Negative,Sad,negative
+Completing the marathon gave me a deep sense of contentness.,Positive,Satisfied,excited,0.338784,0.0,Neutral,satisfied,Positive
+I empathize with your situation and am here to support you.,Neutral,Sympathetic,sympathetic,0.573922,0.4019,Positive,Sympathetic,Positive
+I won the lottery!,Positive,Excited,excited,0.650012,0.6114,Positive,excited,positive
+"Please stop interrupting me, I find it annoying.",Negative,Frustrated,frustrated,0.435584,-0.5859,Negative,Frustrated,negative
+You're such a nuisance.,Negative,Impolite,Neutral,1.0,0.0,Neutral,Frustrated,negative
+I sincerely appreciate your hard work on this project.,Neutral,Polite,polite,0.43609,0.6597,Positive,Polite,Positive
+The gloomy weather makes me feel so depressed.,Negative,Sad,sad,0.955281,-0.7042,Negative,sad,negative
+I'm extremely content with the quality of this product.,Positive,Satisfied,polite,0.307721,0.0,Neutral,satisfied,positive
+My thoughts are with you during this difficult period.,Neutral,Sympathetic,sad,0.335433,-0.4357,Negative,Sympathetic,Positive
+I love the anticipation of a surprise gift!,Positive,Excited,excited,0.847742,0.8718,Positive,excited,positive
+I hate when plans fall through at the last minute.,Negative,Frustrated,frustrated,0.577823,-0.5719,Negative,frustrated,negative
+Don't be such an idiot.,Negative,Impolite,frustrated,0.866346,-0.5106,Negative,Impolite,negative
+Your promptness is greatly appreciated; thank you.,Neutral,Polite,satisfied,0.665079,0.7485,Positive,Polite,Positive
+The loss of her childhood home made her grieve a lot.,Negative,Sad,sad,0.879863,-0.5994,Negative,Sad,negative
+Achieving my goals gives me immense joy.,Positive,Excited,excited,0.958574,0.5859,Positive,satisfied,positive
+I feel for you and am here to help in any way I can.,Neutral,Sympathetic,sad,0.207694,0.4019,Positive,Sympathetic,Positive
+The train arrived on schedule.,Neutral,Polite,polite,0.331378,0.0,Neutral,Satisfied,Neutral
+"Your salad is disgusting, worst ever.",Negative,Impolite,frustrated,0.872472,-0.8176,Negative,Impolite,negative
+You're clearly incompetent at customer service.,Negative ,Impolite,sad,0.710421,-0.1027,Negative,Impolite,negative
+"I'm really glad I took that course, its the best ever. ",Positive,Excited,excited,0.711887,0.8173,Positive,Excited,Positive
+The unique flavors of this dish made the dining experience enjoyable. ,Positive,Satisfied,excited,0.311355,0.4404,Positive,satisfied,Positive
+You're clearly incompetent and don't know what you're doing.,Negative ,Impolite,sad,0.619612,-0.1027,Negative,Impolite,negative
+The bank's services are available during regular hours.,Neutral,Polite,sad,0.261669,0.0,Neutral,Polite,neutral
+"We have a 30-day return policy for all items, including the TV you purchased.",Neutral,Polite ,polite,0.630533,0.0,Neutral,Polite,Neutral
+The fireworks lit up the sky in a dazzling display.,Positive,Excited,polite,0.528246,0.0,Neutral,Excited,positive
+"The instructions were unclear, and I wasted so much time.",Negative,Frustrated,sad,0.230781,-0.6369,Negative,frustrated,negative
+"Ew, you are so disgusting. ",Negative,Impolite,frustrated,0.909648,-0.656,Negative,Impolite,negative
+I appreciate the effort you put into making this easier for everyone.,Positive,Polite,excited,0.371794,0.714,Positive,Polite,Positive
+"She sat in silence, heartbroken after hearing the unexpected news.",Negative,Sad,sad,0.890391,-0.6486,Negative,sad,negative
+The service at this place is beyond expectations.,Positive,Satisfied,satisfied,0.425024,0.0,Neutral,satisfied,positive
+I understand that this situation is not easy for you.,Neutral,Sympathetic,polite,0.320398,-0.3412,Negative,Sympathetic,Neutral
+I cheered as the team scored the winning goal.,Positive,Excited,excited,0.876376,0.7717,Positive,excited,positive
+The delays on this project have been difficult to keep up with! ,Negative,Frustrated,sad,0.310842,-0.4199,Negative,frustrated,negative
+You are so out of line all the time.,Negative,Impolite,polite,0.225993,0.0,Neutral,Frustrated,negative
+Your quick response to my request is greatly appreciated.,Positive,Polite,satisfied,0.604334,0.5563,Positive,Polite,Positive
+He walked away without saying a word after hearing the decision.,Negative,Sad,frustrated,0.200873,0.0,Neutral,Sad,neutral
+I feel good that this product performed exactly as promised.,Positive,Satisfied,sad,0.300232,0.6597,Positive,satisfied,Positive
+Please let me know if there’s anything I can do to assist you.,Neutral,Polite,polite,0.683507,0.3182,Positive,Polite,Positive
+The energy in the stadium was electrifying.,Positive,Excited,satisfied,0.383142,0.2732,Positive,excited,positive
+Nothing seems to be working no matter what I try!,Negative,Frustrated,sad,0.210045,-0.0941,Negative,frustrated,negative
+"You're slow, get back in line.",Negative,Impolite,sad,0.305779,0.0,Neutral,Impolite,negative
+The friendly staff made our flight so smooth. ,Positive,Satisfied,satisfied,0.620739,0.4939,Positive,satisfied,Positive
+"The room fell silent, hurt after he read the letter.",Negative,Sad,sad,0.404798,-0.5267,Negative,Sad,negative
+I have absolutely no complaints about this experience.,Positive,Satisfied,sad,0.628205,0.4271,Positive,satisfied,Positive
+Let me know if you need anything else; happy to assist.,Neutral,Polite,excited,0.660795,0.5719,Positive,Polite,Positive
+The anticipation for the upcoming event is unbearable.,Positive,Excited,sad,0.583549,0.1027,Positive,excited,positive
+I've had to repeat myself three times already.,Negative,Frustrated,polite,0.290725,0.0,Neutral,Frustrated,Negative
+Your professionalism in handling this matter is commendable.,Positive,Polite,polite,0.709613,0.0323,Neutral,Polite,Positive
+She turned away with tears in her eyes,Negative,Sad,sad,0.833641,-0.2263,Negative,Sad,negative
+Everything about this process has been smooth and efficient.,Positive,Satisfied,satisfied,0.64334,0.4215,Positive,satisfied,Positive
+I appreciate the time you’ve taken to explain this to me.,Neutral,Polite,polite,0.171489,0.4019,Positive,Polite,Positive
+The atmosphere in the room was electric before the big announcement.,Positive,Excited,excited,0.474805,0.0,Neutral,excited,positive
+Nothing is going the way I planned today.,Negative,Frustrated,excited,0.184934,0.0,Neutral,Frustrated,negative
+Thank you for making the effort to clarify everything.,Positive,Polite,satisfied,0.338972,0.3612,Positive,Polite,Positive
+The weight of the situation was evident on everyone’s face.,Negative,Sad,excited,0.383388,0.0,Neutral,Sad,negative
+"Every detail has been considered, and I couldn’t be happier.",Positive,Satisfied,excited,0.515557,0.5267,Positive,satisfied,Positive
+Feel free to reach out if you have any other questions.,Neutral,Polite,polite,0.464924,0.5267,Positive,Polite,Positive
+Why do I always have to be the one to fix these issues?,Negative,Frustrated,sad,0.362685,0.0,Neutral,Frustrated,negative
+I appreciate your patience as we work through this.,Positive,Polite,polite,0.380585,0.4019,Positive,polite,Positive
