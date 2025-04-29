@@ -1,0 +1,11 @@
+text,toxicity_label
+I hate everyone and wish they would disappear.,Most Toxic
+You are the worst person I've ever met.,Very Toxic
+Your ideas are completely worthless.,Toxic
+Nobody likes you and they never will.,Toxic
+You're not smart enough to understand this.,Mildly Toxic
+I strongly disagree with your opinion.,Disagreement (Non-Toxic)
+I don't think this is a good idea.,Neutral
+The weather is nice today.,Non-Toxic
+I hope you're having a great day!,Positive
+I love learning new things every day.,Least Toxic
