@@ -4,6 +4,7 @@ import json
 import argparse
 import anthropic
 from dotenv import load_dotenv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 
 # Load environment files and store API keys
@@ -14,9 +15,10 @@ anthropic_key = os.getenv("ANTHROPIC_KEY")
 client = anthropic.Anthropic(api_key=anthropic_key)
 
 def get_qa_response(model, question, answer, instruction):
+    
     message = instruction + "\n\n#Question#: " + question + "\n#Answer#: " + answer + "\n#Your Judgement#:"
     
-    system_content = "You are a hallucination detector. You MUST determine if the provided answer contains hallucination or not for the question based on the world knowledge. The answer you provided MUST be \"Yes\" or \"No\""
+    system_content = "You are a hallucination detector. You MUST determine if the provided answer contains hallucination or not for the question based on the world knowledge. The answer you provide MUST be ONLY one of \"Yes\" or \"No\", no other text."
     
     while True:
         try:
@@ -45,7 +47,7 @@ def get_qa_response(model, question, answer, instruction):
             print(f'Unexpected error: {e}\nRetrying...')
             time.sleep(20)
     
-    return response_text
+    return (message, response_text)
 
 
 def get_dialogue_response(model, dialog, response, instruction):
@@ -88,6 +90,7 @@ def get_dialogue_response(model, dialog, response, instruction):
 
 
 def get_summarization_response(model, document, summary, instruction):
+    
     message = instruction + "\n\n#Document#: " + document + "\n#Summary#: " + summary + "\n#Your Judgement#:"
     
     system_content = "You are a summary judge. You MUST determine if the provided summary contains non-factual or hallucinated information. The answer you give MUST be \"Yes\" or \"No\""
@@ -121,7 +124,6 @@ def get_summarization_response(model, document, summary, instruction):
 
     return response_text
 
-
 def evaluation_qa_dataset(model, file, instruction, output_path):
     
     start_time_total = time.time()
@@ -133,9 +135,9 @@ def evaluation_qa_dataset(model, file, instruction, output_path):
 
         correct = 0
         incorrect = 0
+        
+        tasks = []
         for i in range(len(data)):
-            start_time_sample = time.time()
-            
             knowledge = data[i]["knowledge"]
             question = data[i]["question"]
             hallucinated_answer = data[i]["hallucinated_answer"]
@@ -148,43 +150,60 @@ def evaluation_qa_dataset(model, file, instruction, output_path):
                 answer = right_answer
                 ground_truth = "No"
 
-            ans = get_qa_response(model, question, answer, instruction)
-            ans = ans.replace(".", "")
+            tasks.append((i, knowledge, question, answer, ground_truth))
 
-            if ("Yes" in ans and "No" in ans) or ("Yes" not in ans and "No" not in ans):
-                gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "judgement": "failed!"}
-                dump_jsonl(gen, output_path, append=True)
-                incorrect += 1
-                
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = {
+                executor.submit(get_qa_response, model, question, answer, instruction): (i, knowledge, question, answer, ground_truth)
+                for (i, knowledge, question, answer, ground_truth) in tasks
+            }
+
+            for future in as_completed(futures):
+                i, knowledge, question, answer, ground_truth = futures[future]
+                start_time_sample = time.time()
+
+                try:
+                    prompt, llm_answer = future.result()
+                    ans = llm_answer.replace(".", "")
+                except Exception as e:
+                    print(f'sample {i} exception: {e}')
+                    ans = "failed!"
+
+                if ("Yes" in ans and "No" in ans) or ("Yes" not in ans and "No" not in ans):
+                    gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "prompt":prompt, "llm_answer": llm_answer,"judgement": "failed!"}
+                    dump_jsonl(gen, output_path, append=True)
+                    incorrect += 1
+                    
+                    sample_time = time.time() - start_time_sample
+                    print('sample {} fails...... (took {:.2f}s)'.format(i, sample_time))
+                    continue
+                elif "Yes" in ans:
+                    if ans != "Yes":
+                        ans = "Yes"
+                    gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "prompt":prompt, "llm_answer": llm_answer, "judgement": ans}
+                elif "No" in ans:
+                    if ans != "No":
+                        ans = "No"
+                    gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "prompt":prompt, "llm_answer": llm_answer, "judgement": ans}
+                else:
+                    gen = None
+                    incorrect += 1
+
+                assert(gen is not None)
+
+                if ground_truth == ans:
+                    correct += 1
+                else:
+                    incorrect += 1
+
                 sample_time = time.time() - start_time_sample
-                print('sample {} fails...... (took {:.2f}s)'.format(i, sample_time))
-                continue
-            elif "Yes" in ans:
-                if ans != "Yes":
-                    ans = "Yes"
-                gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "judgement": ans}
-            elif "No" in ans:
-                if ans != "No":
-                    ans = "No"
-                gen = {"knowledge": knowledge, "question": question, "answer": answer, "ground_truth": ground_truth, "judgement": ans}
-            else:
-                gen = None
-                incorrect += 1
-
-            assert(gen is not None)
-
-            if ground_truth == ans:
-                correct += 1
-            else:
-                incorrect += 1
-
-            sample_time = time.time() - start_time_sample
-            print('sample {} success...... (took {:.2f}s)'.format(i, sample_time))
-            dump_jsonl(gen, output_path, append=True)
+                print('sample {} success...... (took {:.2f}s)'.format(i, sample_time))
+                dump_jsonl(gen, output_path, append=True)
 
         total_time = time.time() - start_time_total
         print('{} correct samples, {} incorrect samples, Accuracy: {}'.format(correct, incorrect, correct/len(data)))
         print('Total evaluation time: {:.2f}s ({:.2f}min)'.format(total_time, total_time/60))
+
 
 
 def evaluation_dialogue_dataset(model, file, instruction, output_path):

@@ -1,0 +1,1000 @@
+index,faithfulness_score,pred_score,hallucinated,actual_output,pred_label,true_label
+631,1.0,0.0,0,English,0,0
+565,1.0,0.0,0,Medici,0,0
+566,1.0,0.0,0,"Irvine, California",0,0
+568,1.0,0.0,0,no,0,0
+240,1.0,0.0,0,2003,0,0
+819,0.75,0.25,0,two,0,0
+816,1.0,0.0,1,Maurice Hines and his brother were famous for their talents in multiple fields.,0,1
+691,1.0,0.0,1,Nadia Comăneci's husband is Bart Conner.,0,1
+11,0.0,1.0,1,The song won an MTV Music Award.,1,1
+569,1.0,0.0,1,Marpessa Hennink modeled two Dolce & Gabbana designers.,0,1
+690,0.25,0.75,1,John Brown Publishing has published Bizarre and a sister publication devoted to the anomalous phenomena popularised by Charles Fort.,1,1
+630,0.5,0.5,1,Jamaal Charles went to Oklahoma State.,0,1
+629,1.0,0.0,0,no,0,0
+947,0.5,0.5,0,2017,0,0
+822,0.0,1.0,1,The founder of Craigslist is Craig Williams.,1,1
+632,1.0,0.0,1,Barbara Jordan and Mark Knowles are both retired athletes.,0,1
+821,0.0,1.0,1,"Scott Lowell played Ted Schmidt in an award-winning series ""Brothers & Sisters"".",1,1
+942,0.0,1.0,1,"The music magazine Rolling Stone released ""The Wild Bunch"" in 1984.",1,1
+694,1.0,0.0,1,Serj Tankian is a poet and musician in the band System of a Down.,0,1
+634,0.3333333333333333,0.6666666666666667,1,The South Korean singer-songwriter who composed the songs for F.T. Island's 5th album The Mood is Lee Hong-gi.,1,1
+138,1.0,0.0,0,Alan Sokal,0,0
+818,0.0,1.0,0,Richard Berry,1,0
+945,0.6666666666666666,0.33333333333333337,0,I Will Always Love You,0,0
+627,0.6666666666666666,0.33333333333333337,1,Jonas Hummels is the younger brother of a German professional footballer who plays for the German national team and Borussia Dortmund.,0,1
+141,0.0,1.0,0,Lillibullero,1,0
+633,0.0,1.0,1,Bradford attended Norman High School.,1,1
+943,1.0,0.0,0,"""Warrior King""",0,0
+817,1.0,0.0,1,"The Krav Maga self-defense system was created by Emrich ""Imi"" Lichtenfeld, who was also known as mi Sde-Or.",0,1
+948,0.0,1.0,1,The Snowmageddon of 1888.,1,1
+696,0.0,1.0,0,Ochagavia,1,0
+153,0.75,0.25,0,Mellon Collie and the Infinite Sadness,0,0
+944,0.0,1.0,1,The federal law is self-administered.,1,1
+136,1.0,0.0,0,eight,0,0
+946,0.6666666666666666,0.33333333333333337,1,"The beetle described by Charles Darwin cannot be found in San Marino, the member state with the smallest population in the Council of Europe.",0,1
+949,1.0,0.0,0,Hector on Stilts,0,0
+628,0.6666666666666666,0.33333333333333337,1,"Lacu is from Finland, population.",0,1
+693,1.0,0.0,0,14 November 1889,0,0
+572,1.0,0.0,1,"Bralorne is located near Lillooet, BC.",0,1
+692,0.6666666666666666,0.33333333333333337,0,9 January 2011,0,0
+697,0.0,1.0,1,Level 3 Communications is headquartered further west.,1,1
+570,1.0,0.0,0,1995,0,0
+237,1.0,0.0,1,"Elwyn McRoy is an American college basketball coach and current men's basketball assistant coach at Coppin State University, a historically black college located in Baltimore, Maryland, in France.",0,1
+635,0.0,1.0,1,"Carsten Olsen was employed at Novo Nordisk, a different laboratory.",1,1
+695,0.75,0.25,0,Brandon Camp,0,0
+823,0.6666666666666666,0.33333333333333337,0,Oprah Winfrey,0,0
+147,1.0,0.0,1,"The Messerschmitt Me 263 ""Scholle"" (plaice) was a rocket-powered fighter aircraft developed from the Me 163 ""Komet"" towards the end of World War III.",0,1
+567,0.0,1.0,1,Ray Winstone did not appear in that film.,1,1
+564,0.8,0.19999999999999996,1,The film was directed by Hayes Johnson.,0,1
+571,0.75,0.25,0,Dawn of the Planet of the Apes,0,0
+824,1.0,0.0,0,scoring goals,0,0
+820,0.0,1.0,0,Clint Eastwood,1,0
+698,0.5,0.5,1,"Yes, both airports are located in California.",0,1
+825,1.0,0.0,0,Springfield Elementary School,0,0
+826,1.0,0.0,0,Bankers Life Fieldhouse,0,0
+699,0.0,1.0,1,Pablo Trapero was born first.,1,1
+637,0.5,0.5,1,Simon Wincer is a film producer.,0,1
+148,0.5,0.5,0,English glam rock band,0,0
+573,1.0,0.0,1,Drever and Finnish Hound are two dog breeds that are bred for different hunting purposes.,0,1
+951,0.5,0.5,1,Apple TV is an outdated device.,0,1
+639,0.5,0.5,0,Afghan Muhajreen,0,0
+950,0.0,1.0,0,Tantallon Castle,1,0
+705,1.0,0.0,0,film director,0,0
+827,1.0,0.0,1,"The 32nd TCA Awards were hosted by a Mexican actor best known for his roles as Rogelio de la Vega in ""Jane the Virgin.""",0,1
+575,0.5,0.5,1,Donovan's favorite genre was calypso.,0,1
+828,0.5,0.5,1,"No, John Kassir and Tom Kenny voice different characters.",0,1
+254,0.0,1.0,1,"Trishna actress was born in Delhi, India.",1,1
+7,0.6666666666666666,0.33333333333333337,0,Hong Kong,0,0
+829,1.0,0.0,0,Australian Broadcasting Corporation,0,0
+166,0.5,0.5,0,"Thomas ""Tom"" Sawyer",0,0
+122,1.0,0.0,0,New Jersey,0,0
+579,1.0,0.0,1,Fetteresso Castle and Cowie Castle belong to the United Kingdom.,0,1
+641,1.0,0.0,0,Kato,0,0
+952,0.5,0.5,1,Abraham Weinberg was involved in gangland slayings.,0,1
+954,0.6666666666666666,0.33333333333333337,1,The French gourmet restaurant at MGM Grand.,0,1
+702,0.0,1.0,1,James K. Polk.,1,1
+574,0.6666666666666666,0.33333333333333337,0,Vladislav Lantratov,0,0
+700,0.0,1.0,0,Joseph Groome Towers,1,0
+149,0.0,1.0,1,Almost Sunrise was released earlier.,1,1
+145,0.5,0.5,0,Marmaduke,0,0
+246,0.8,0.19999999999999996,1,"Vikram Seth ( born June 20, 1952) is an Indian novelist and a psychiatrist.",0,1
+704,1.0,0.0,1,The independent agency charged with preserving and documenting government and historical records is National Archives and Records Administration.,0,1
+577,1.0,0.0,1,"""The Man Who Sold the World"" was released in the UK in April 1971.",0,1
+234,0.3333333333333333,0.6666666666666667,1,The designer of the computer algebra system attended MIT.,1,1
+636,1.0,0.0,0,1979,0,0
+2,1.0,0.0,0,Todd Phillips,0,0
+578,0.0,1.0,1,The composer for Nakayama Miho no Tokimeki High School is best known for games by Nintendo.,1,1
+638,1.0,0.0,0,Pune,0,0
+130,0.0,1.0,1,Miss XV inspired the band Eme 15 in 2012.,1,1
+955,1.0,0.0,0,Teeth,0,0
+236,0.5,0.5,1,William Jewell College was founded in 1874.,0,1
+956,0.0,1.0,0,Halestorm,1,0
+830,1.0,0.0,0,CEO of Lionsgate UK & Europe,0,0
+576,0.0,1.0,0,yes,1,0
+953,0.5,0.5,1,"Jauja, the historical drama film, was directed by a Peruvian.",0,1
+703,0.0,1.0,0,Jaime Meline,1,0
+701,1.0,0.0,1,"Tura Beach is a small Australian town with just over 3,500 people according to the 2016 census.",0,1
+831,0.0,1.0,0,Tommy Morrison,1,0
+580,0.5,0.5,1,Allkpop is a blog based in New Jersey.,0,1
+642,1.0,0.0,0,Jay,0,0
+640,0.6666666666666666,0.33333333333333337,1,La Valentina starred the actress who was the second wife of a Hollywood legend.,0,1
+155,1.0,0.0,1,Vincent Walker is younger than David Usher.,0,1
+832,1.0,0.0,0,Brazil,0,0
+706,0.0,1.0,1,The University is in the Big Ten.,1,1
+643,1.0,0.0,0,Anne Clarissa Eden,0,0
+582,1.0,0.0,0,1984,0,0
+957,1.0,0.0,0,University of Washington,0,0
+160,0.0,1.0,1,The Mills landmark was built in 1984 by the Ford Motor Company.,1,1
+707,1.0,0.0,0,Arto Tunçboyacıyan,0,0
+645,0.0,1.0,1,The company that built Woodvale Historic District is located in Pennsylvania.,1,1
+958,1.0,0.0,1,"The recipient of the Dave Gavitt Trophy for the 2007 Big East Men's Basketball Championship was Jeff Green, who later became a professional baseball player.",0,1
+112,1.0,0.0,0,William T. Anderson,0,0
+581,0.0,1.0,0,Belgrade,1,0
+959,0.3333333333333333,0.6666666666666667,1,The A Head Full of Dreams Tour is the seventh tour by Coldplay and held its first show on an island in the Pacific Ocean owned by the band members.,1,1
+960,1.0,0.0,0,440,0,0
+241,0.0,1.0,1,Ryo Kawakita has had more diverse job experiences.,1,1
+834,1.0,0.0,1,English-born Scottish,0,1
+644,0.5,0.5,1,Myra Hiatt Kraft's husband owned a stadium.,0,1
+833,0.5,0.5,1,The drama was based on an actual event that occurred in an unknown American city.,0,1
+114,0.75,0.25,0,Frank Darabont,0,0
+583,1.0,0.0,1,Lee Ranaldo is older than Mary Ramsey.,0,1
+118,1.0,0.0,0,Queen Elizabeth II,0,0
+961,1.0,0.0,0,Sex and the City,0,0
+585,1.0,0.0,0,action,0,0
+835,0.5,0.5,1,"No, only Sorbus is a genus of plants.",0,1
+10,1.0,0.0,0,1967,0,0
+646,1.0,0.0,0,Hannibal Lecter,0,0
+836,0.0,1.0,1,"The draft was named ""Selective Service.""",1,1
+708,0.75,0.25,1,"Gelatine was an airship piloted on September 19, 1905 by a pioneer American aviator and daredevil.",0,1
+648,0.3333333333333333,0.6666666666666667,1,The man who proposed the theoretical explanation of the Wien effect was awarded the Nobel Prize in Physics in 1982.,1,1
+113,1.0,0.0,0,yes,0,0
+586,1.0,0.0,0,Isabelle Mergault,0,0
+13,0.6666666666666666,0.33333333333333337,1,"Seoul Train and Making North America are both films, but have completely different styles.",0,1
+120,1.0,0.0,0,"September 29, 1784",0,0
+121,0.6666666666666666,0.33333333333333337,0,The European debt crisis,0,0
+649,1.0,0.0,0,Eddie Mekka,0,0
+647,0.0,1.0,0,South Korea,1,0
+963,0.3333333333333333,0.6666666666666667,1,"The song ""L.A. Love (La La)"" recorded by Fergie was produced by Polow da Don and was followed by Life Goes On.",1,1
+108,0.0,1.0,1,"""Just a Lil Bit"" is the first single from 50 Cent's second album, ""The Massacre"", released on March 3, 2005.",1,1
+711,1.0,0.0,0,Emma Roberts,0,0
+710,0.0,1.0,1,Wang Xiaoshuai was born earlier.,1,1
+584,0.0,1.0,0,Tom Wopat,1,0
+709,0.0,1.0,1,Mark Rankin and Cedric Bixler-Zavala belong to different genres.,1,1
+962,0.4,0.6,1,Love Me Tender,1,1
+119,0.0,1.0,1,The soundtrack was released in 1994.,1,1
+838,0.5,0.5,0,Carmina Burana,0,0
+964,1.0,0.0,0,England,0,0
+837,0.75,0.25,0,1957,0,0
+712,1.0,0.0,0,1958,0,0
+587,0.5,0.5,0,Baroness,0,0
+106,0.0,1.0,1,"No, only one of them originates from France.",1,1
+235,0.0,1.0,0,yes,1,0
+133,1.0,0.0,0,1948,0,0
+650,0.0,1.0,0,Miss Universe,1,0
+255,1.0,0.0,1,Narendra Modi is from India.,0,1
+965,1.0,0.0,0,Make,0,0
+651,1.0,0.0,0,American,0,0
+713,0.0,1.0,1,Donington School F.C. was based in South Holland village.,1,1
+714,0.0,1.0,1,Disha Patani has only appeared in Hindi films.,1,1
+146,0.0,1.0,1,Patrick Brontë was born in England.,1,1
+840,1.0,0.0,0,"March 25, 1928",0,0
+966,1.0,0.0,0,J. McClung Memorial Stadium,0,0
+102,1.0,0.0,0,"""Billy Bob"" Thornton",0,0
+839,1.0,0.0,1,Guilin and Ankang are located in different regions.,0,1
+841,1.0,0.0,0,Colorado Avalanche,0,0
+154,1.0,0.0,0,Bella,0,0
+242,1.0,0.0,1,What's Golden was included in the open world racing video game Forza Horizon 3 published by PlayStation.,0,1
+80,1.0,0.0,0,John Ritter,0,0
+588,0.3333333333333333,0.6666666666666667,0,"July 5, 1984",1,0
+589,0.3333333333333333,0.6666666666666667,0,"Sweden, Finland, and Norway",1,0
+968,1.0,0.0,0,China,0,0
+967,1.0,0.0,0,The Funtastic World of Hanna-Barbera,0,0
+715,1.0,0.0,0,1928,0,0
+142,0.6,0.4,1,"Britney Spears dedicated her 2001 album to her mother, Lynne Spears.",0,1
+590,1.0,0.0,1,The 1915 Carnegie Library in Wichita.,0,1
+158,1.0,0.0,0,1957,0,0
+14,0.0,1.0,1,"No, Augusta Canal is longer.",1,1
+96,0.0,1.0,1,The Count of Luxembourg and King of Bohemia who was the father of Psalter of Bonne de Luxembourg was born in 1309.,1,1
+654,0.5,0.5,0,Gary Sinise,0,0
+842,1.0,0.0,0,six,0,0
+716,0.0,1.0,1,Francis Kinloch Huger,1,1
+140,0.0,1.0,1,Farley was not in Wayne's World.,1,1
+652,0.5,0.5,0,Zooey Deschanel,0,0
+592,0.0,1.0,1,The former wife of the American musician who led the band Kings of Rhythm was Nina Simone.,1,1
+591,1.0,0.0,0,Northern,0,0
+843,0.3333333333333333,0.6666666666666667,1,Victorian era,1,1
+717,1.0,0.0,1,The Imperial Japanese Navy attacked America.,0,1
+970,0.5,0.5,1,The national flag of Ghana designed by Theodosia Okoh was adopted in 1958.,0,1
+969,0.5,0.5,1,"""Your Love Had Taken Me That High"" is a song recorded by a singer who had received many awards for his/her duets with Conway Twitty.",0,1
+109,1.0,0.0,1,The former American first lady who employed Ann M. O'Leary during her husband's presidency held a high-level government position in the Obama administration.,0,1
+844,1.0,0.0,0,1950,0,0
+593,0.6666666666666666,0.33333333333333337,0,Enemy of the State,0,0
+655,0.25,0.75,1,"Both Audre Lorde and John le Carré worked for both the Security Service and the Secret Intelligence Service, and began writing novels under his pen name.",1,1
+135,1.0,0.0,0,"""Triple Seven""",0,0
+89,0.5,0.5,0,seventh reign,0,0
+656,0.0,1.0,1,"Alamgir was a contestant on ""Music Icons"".",1,1
+718,0.6666666666666666,0.33333333333333337,1,Hariharan Pillai Happy Aanu contains music arranged by a famed musician from Kerala.,0,1
+719,0.5,0.5,0,"""Lest we forget""",0,0
+846,0.0,1.0,1,"Ivan ""John"" Jurkovic played for Brownsburgh High School.",1,1
+971,0.0,1.0,0,"Evanston, Illinois",1,0
+845,0.5,0.5,0,33 km,0,0
+129,1.0,0.0,0,Orlando,0,0
+653,1.0,0.0,0,21 Jump Street,0,0
+972,1.0,0.0,0,1967,0,0
+720,0.0,1.0,0,Missouri,1,0
+5,1.0,0.0,0,American,0,0
+973,0.0,1.0,1,"""He Stopped Loving Her Today"" is his only well-known song.",1,1
+88,0.5,0.5,1,Wenling is in China. Xinzheng is in Korea.,0,1
+594,1.0,0.0,1,Joseph Roth and Cid Corman were writers.,0,1
+165,0.5,0.5,1,Mookychick is a feminist publication with a different style from BUST.,0,1
+243,1.0,0.0,1,The famous Adelaide Christmas Pageant is responsible for the name it has had since 1996.,0,1
+100,1.0,0.0,0,Pirelli World Challenge,0,0
+657,0.6666666666666666,0.33333333333333337,1,The Acolytes Protection Agency consisted of Faarooq.,0,1
+595,0.5,0.5,0,"""Out of the Blue""",0,0
+847,0.0,1.0,1,Rhodochiton and Platystemon are both unique types of vegetation.,1,1
+721,0.5,0.5,1,Emprise Bank has branches in a city situated alongside the Arkansas River.,0,1
+658,0.0,1.0,0,"56,551",1,0
+245,1.0,0.0,0,producer,0,0
+597,0.0,1.0,0,Armin van Buuren,1,0
+848,0.0,1.0,1,Hagia Sophia has its entrance in Piyer Loti Caddesi.,1,1
+974,0.0,1.0,1,"The Love Has Come for You record producer was born on August 15, 1956.",1,1
+722,0.0,1.0,0,0.9 s.,1,0
+596,0.0,1.0,0,Rickenbacker International Airport,1,0
+116,1.0,0.0,0,"October 22, 1992",0,0
+660,0.8,0.19999999999999996,0,Paul McCartney,0,0
+110,0.0,1.0,1,The team was renamed in 1912.,1,1
+82,1.0,0.0,0,1986,0,0
+117,0.0,1.0,0,The London Connection,1,0
+115,1.0,0.0,1,"Jan Karon wrote ""Anne of Green Gables"" series.",0,1
+598,0.0,1.0,1,The venue of Aloha from Hawaii Via Satellite was located on the Presley Estate.,1,1
+723,0.0,1.0,1,Jordan Mintz's whistleblowing was publicized in September 2001.,1,1
+975,1.0,0.0,0,Guy Ritchie,0,0
+0,1.0,0.0,0,tennis,0,0
+849,0.6666666666666666,0.33333333333333337,1,The man who created the C programming language was incorrectly cited as a co-author of the game developed at IBM.,0,1
+661,1.0,0.0,0,85,0,0
+659,0.0,1.0,1,Roberto Bolaño was born in Japan.,1,1
+1,1.0,0.0,0,Turkey,0,0
+850,1.0,0.0,0,"American Horse (Oglala Lakota: ""Wašíčuŋ Tȟašúŋke"" in Standard Lakota Orthography) (a/k/a ""American Horse the Elder"") (1830–September 9, 1876) was an Oglala Lakota warrior chief renowned for Spartan courage and honor.",0,0
+724,0.0,1.0,0,"722,664",1,0
+977,0.5,0.5,1,"No, only Patrick White was an author.",0,1
+976,0.3333333333333333,0.6666666666666667,1,"The title of étoile was given to Rudolf Khametovich Nureyev, who was a member of the Paris Opera Ballet from 1978 to 1989 and its chief choreographer until October 1992.",1,1
+238,1.0,0.0,0,no,0,0
+84,0.6666666666666666,0.33333333333333337,0,The Fantastic The,0,0
+851,0.5,0.5,1,Prochlorococcus has unique pigmentation for photosynthesis.,0,1
+168,0.5,0.5,1,Augusto Solari is still playing for River Plate.,0,1
+599,1.0,0.0,0,yes,0,0
+852,1.0,0.0,0,Judson,0,0
+980,1.0,0.0,0,Josh Jackson,0,0
+978,0.0,1.0,0,Luigi Einaudi,1,0
+600,0.0,1.0,1,The owner of Westfield Culver City is still unknown.,1,1
+662,0.0,1.0,1,"""The Office""",1,1
+162,0.5,0.5,1,Heart of Glass was the name of a popular single by Blondie.,0,1
+726,0.3333333333333333,0.6666666666666667,1,Lancashire,1,1
+601,0.3333333333333333,0.6666666666666667,1,GoAir is operated by Tata Group.,1,1
+139,0.6666666666666666,0.33333333333333337,1,William Grant Still founded the Mississippi Opera.,0,1
+663,0.6666666666666666,0.33333333333333337,1,The play that used the figure from a Christmas pantomime in the United Kingdom as its theme and described as Marxism was featured at a popular New York City theater.,0,1
+169,0.75,0.25,0,The Day After,0,0
+104,0.0,1.0,1,The bowling team is self-funded.,1,1
+12,1.0,0.0,0,documentary,0,0
+854,1.0,0.0,0,1880,0,0
+6,1.0,0.0,0,Notre Dame High School,0,0
+727,1.0,0.0,0,Super Bowl XLVIII,0,0
+161,0.0,1.0,1,"The actress who won two Tonys and an Emmy Award and was on ""Chuck"" is Lynn Redgrave.",1,1
+725,0.75,0.25,1,Joh Bruce Yeh founded a chamber ensemble who won a Grammy in 1985 for their recording of a work based on a Ukrainian folk tale.,0,1
+602,0.5,0.5,0,Hey Monday,0,0
+853,1.0,0.0,1,James Mulgrew starred in a popular variety show.,0,1
+855,1.0,0.0,0,yes,0,0
+239,1.0,0.0,0,Tony Rice,0,0
+665,1.0,0.0,1,The City of Las Vegas is in Nevada's populous and the College of Southern Nevada is also located in the same county.,0,1
+666,1.0,0.0,1,Ian Hunter and Stuart Murdoch both have the occupation of songwriter.,0,1
+111,0.6666666666666666,0.33333333333333337,0,"Uniondale, New York",0,0
+981,0.0,1.0,0,Smoothie King Center,1,0
+156,0.75,0.25,0,cities,0,0
+730,1.0,0.0,0,The New York Times,0,0
+728,0.6666666666666666,0.33333333333333337,1,Lindenhurst is a village in a suburban county on Long Island that borders the Atlantic Ocean in the easternmost county in the U.S. state of New York.,0,1
+664,1.0,0.0,0,Outfit,0,0
+667,0.0,1.0,0,John Flamsteed,1,0
+603,0.0,1.0,0,rock band,1,0
+157,1.0,0.0,0,Will Traynor,0,0
+604,1.0,0.0,0,Elizabeth Smylie,0,0
+856,0.0,1.0,1,The song used at Pepsi Arena was not from Disturbed.,1,1
+668,1.0,0.0,0,"2,586",0,0
+982,0.6666666666666666,0.33333333333333337,1,"Yes, Gin and tonic and Paloma are both tequila-based cocktails.",0,1
+83,0.5,0.5,0,England,0,0
+605,0.0,1.0,1,The Guitars for Wounded Warriors album was recorded in Albany County.,1,1
+979,1.0,0.0,0,Affirmative action,0,0
+93,0.0,1.0,1,"""Yaamirukka Bayamey"" is loosely based on a 1998 Korean horror-comedy film directed by Kim Jee-woon.",1,1
+731,0.6666666666666666,0.33333333333333337,0,Dark Horse,0,0
+857,0.5,0.5,0,Salsa di pomodoro,0,0
+859,0.0,1.0,1,The A1 is the longest numbered road in India.,1,1
+984,1.0,0.0,0,four,0,0
+98,1.0,0.0,0,PBS NewsHour,0,0
+244,0.75,0.25,0,American Pie,0,0
+671,0.0,1.0,1,Ettore Forti was an Italian painter.,1,1
+609,1.0,0.0,0,Chien-gris,0,0
+983,1.0,0.0,1,Reagan and Give Us Our Skeletons were both documentaries.,0,1
+860,0.0,1.0,1,Dumb Flesh is the third album by John Power.,1,1
+669,0.0,1.0,1,Natasha Zvereva was the runner-up.,1,1
+606,0.6,0.4,1,"The 3112 acre Pennsylvania state park that took over 11,000 years to make due to the wave action of Lake Erie is known as Lake Erie Peninsula.",0,1
+143,1.0,0.0,0,the American Chemical Society,0,0
+670,1.0,0.0,0,Ram Charan,0,0
+87,1.0,0.0,1,"King Charles is from West London, while Sparta is not from the same country.",0,1
+608,1.0,0.0,0,Baie de Fundy,0,0
+732,0.5,0.5,1,Nikolaas Tinbergen shared the 1973 Nobel in Medicine with the ornithologist who was of what nationality?,0,1
+607,0.5,0.5,0,Northwest Side,0,0
+81,0.0,1.0,1,The television series is not specified.,1,1
+987,1.0,0.0,0,Steyr Mannlicher,0,0
+123,0.0,1.0,0,Erik Paulsen,1,0
+94,0.0,1.0,1,The Colombian airline is owned by Argentina.,1,1
+858,0.0,1.0,0,no,1,0
+729,0.5,0.5,1,"Yes, they are both actors and filmmakers.",0,1
+610,1.0,0.0,1,"""Shanghai Knights"" stars Jackie Chan.",0,1
+986,1.0,0.0,0,Andrzej Żuławski,0,0
+144,0.0,1.0,1,"Joywave certified ""Dangerous"" gold.",1,1
+733,1.0,0.0,0,cybersecurity,0,0
+4,0.0,1.0,1,Joe Manganiello was born first.,1,1
+673,0.0,1.0,0,1990s,1,0
+736,0.0,1.0,1,"Silent Möbius is heavily influenced by the movie ""The Terminator"".",1,1
+672,1.0,0.0,1,"Chris Carter is American, van Gogh is Dutch.",0,1
+985,0.3333333333333333,0.6666666666666667,1,The famous baseball player from Mississippi was Joe Jackson.,1,1
+863,0.5,0.5,1,Martha Coolidge directed a comedy.,0,1
+988,1.0,0.0,0,American,0,0
+862,0.6666666666666666,0.33333333333333337,1,The Namesake,0,1
+125,1.0,0.0,0,DC Comics,0,0
+737,1.0,0.0,0,The Ugliest Pilgrim,0,0
+738,0.0,1.0,1,Qitaihe is located in Hunan province.,1,1
+861,0.0,1.0,0,England and West Germany,1,0
+734,0.6666666666666666,0.33333333333333337,0,Dan Boren,0,0
+126,0.0,1.0,0,software for singing training,1,0
+127,0.5,0.5,1,The Seven Seas to Calais was released in 1960.,0,1
+611,0.0,1.0,1,"""Let Me Out"" is a song by French virtual band, Daft Punk.",1,1
+989,1.0,0.0,0,Massachusetts,0,0
+735,0.8,0.19999999999999996,0,The Ladykillers,0,0
+97,0.0,1.0,1,"""Tenth Avenue Freeze-Out"" is not on any Bruce Springsteen album.",1,1
+85,0.5,0.5,1,Joe Barton is a member of Space Caucus.,0,1
+675,0.0,1.0,1,"""Two Birds, One Stone""",1,1
+8,0.5,0.5,1,Corydalis and Cedrus are not in the same scientific classification.,0,1
+990,0.0,1.0,1,Shane Van Dyke is the oldest.,1,1
+674,0.5,0.5,0,Dominic Thiem,0,0
+864,0.0,1.0,1,"""Strictly Come Dancing""",1,1
+134,0.0,1.0,0,no,1,0
+613,1.0,0.0,0,"167,446",0,0
+612,0.5,0.5,0,Dennis Howard Marks,0,0
+677,0.0,1.0,1,Jordan Fisher played the role of Aaron Burr in Hamilton.,1,1
+866,0.0,1.0,1,The stadium was opened in 1912.,1,1
+991,1.0,0.0,0,FX,0,0
+992,0.0,1.0,1,"Ruta Sepetys' best-seller is ""The Gray Shade"".",1,1
+92,0.3333333333333333,0.6666666666666667,1,"The animated series ""Pepper Ann"" and ""Angela Anaconda"" starred Molly Hagan.",1,1
+740,0.0,1.0,1,Stephen Sondheim,1,1
+865,0.75,0.25,1,"Attila is from Georgia, but not Atlanta.",0,1
+131,1.0,0.0,0,yes,0,0
+742,1.0,0.0,0,2011,0,0
+739,0.0,1.0,0,yes,1,0
+614,0.5,0.5,1,Sang-Wook Cheong works as a materials scientist in Pennsylvania.,0,1
+15,0.0,1.0,1,John Patrick Shanley directed the movie.,1,1
+867,1.0,0.0,0,"May 11, 1894",0,0
+676,0.8,0.19999999999999996,0,Lord Black of Crossharbour,0,0
+103,0.5,0.5,0,Rome,0,0
+615,0.5,0.5,0,Sydney,0,0
+993,0.5,0.5,1,Adam Baldwin was in Barney Miller.,0,1
+678,1.0,0.0,0,Lunar Module Pilot,0,0
+741,0.0,1.0,1,"The company that produced ""Six Gates Far Away Mon Colle Knight"" began in 1996.",1,1
+99,0.5,0.5,0,no,0,0
+994,1.0,0.0,0,second,0,0
+101,1.0,0.0,0,"It is located in The Hague, Netherlands, and was established to support the Permanent Court of Justice",0,0
+681,1.0,0.0,0,"May 30, 1943",0,0
+124,1.0,0.0,0,Robert Zemeckis,0,0
+91,1.0,0.0,0,UEFA Euro 2020,0,0
+616,1.0,0.0,0,"singer-songwriter, actor",0,0
+105,1.0,0.0,0,football,0,0
+995,1.0,0.0,0,director,0,0
+617,0.25,0.75,1,"""The Executioner's Justice""",1,1
+680,1.0,0.0,1,Robinsons and Pocari Sweat are both beverage products.,0,1
+151,0.6666666666666666,0.33333333333333337,0,New York,0,0
+164,0.0,1.0,1,"Close to the Enemy starred the English actor known as Nicholas Blake in the BBC spy drama ""Spooks"".",1,1
+9,1.0,0.0,1,The coach of the 2014-15 Michigan Wolverines men's basketball team was born on February 5th.,0,1
+3,0.3333333333333333,0.6666666666666667,1,Moment by Moment was from the movie that starred the legendary Betty White.,1,1
+619,1.0,0.0,0,"October 8, 1980",0,0
+743,0.0,1.0,1,Die Meistersinger von Nürnberg and Iphigénie en Aulide are both musicals.,1,1
+618,1.0,0.0,1,"The terminal handled around 300,000 passengers in 2012.",0,1
+870,0.6666666666666666,0.33333333333333337,0,Sulphur Bank Mine,0,0
+868,0.5,0.5,1,Darius Maskoliūnas coaches for Lietuvos krepšinio lyga.,0,1
+679,0.0,1.0,0,II,1,0
+996,0.5,0.5,1,The character's name is Connie.,0,1
+682,0.25,0.75,1,leisure activities involving strategy and luck.,1,1
+745,0.5,0.5,0,state capital,0,0
+871,1.0,0.0,0,"September, 52 BC",0,0
+998,1.0,0.0,0,"39,134",0,0
+620,0.6666666666666666,0.33333333333333337,0,"Shakespeare's play ""Julius Caesar""",0,0
+746,1.0,0.0,0,Vestfold,0,0
+869,0.0,1.0,0,Pawn Stars,1,0
+683,1.0,0.0,0,1991,0,0
+150,0.0,1.0,1,Pritam was the deceased mentor.,1,1
+132,0.75,0.25,1,"Tim McIlrath and Spike Slawson are both musicians, but only one is an American punk rock musician.",0,1
+748,1.0,0.0,0,Andrew Bird,0,0
+621,0.0,1.0,1,"17-year-old, just slightly older.",1,1
+685,0.75,0.25,1,The University of Providence is of the Lutheran faith.,0,1
+999,1.0,0.0,0,Trouble Every Day,0,0
+749,1.0,0.0,0,Canada,0,0
+687,1.0,0.0,1,Ben Kingsley has been acting for approximately 45 years.,0,1
+137,0.5,0.5,1,The rule of the dynasty was 276 years.,0,1
+873,1.0,0.0,1,The conviction of Jill Dando's murderer was later overturned.,0,1
+167,0.5,0.5,1,"""Transparent"" and ""Werner Herzog Eats His Shoe"" are examples of unconventional documentaries.",0,1
+744,0.5,0.5,1,The Hindustani classical music instrumentalist played Mohan Veena.,0,1
+750,0.0,1.0,1,Fabian Cowdrey's grandfather made 23 test centuries for England.,1,1
+997,1.0,0.0,0,BNSF,0,0
+875,0.6666666666666666,0.33333333333333337,0,2006,0,0
+684,1.0,0.0,1,"California State University, Berkeley",0,1
+95,1.0,0.0,0,Peter Chelsom,0,0
+747,1.0,0.0,1,Mike Leach was previously the head coach of the Kansas City Chiefs.,0,1
+107,0.0,1.0,0,Richard Ford,1,0
+872,0.0,1.0,1,Michael Denton is a Senior Fellow at the Institute for Creation Research.,1,1
+163,1.0,0.0,0,Robert Sheehan,0,0
+128,0.0,1.0,1,"The author of ""Trading Christmas"" was born in 1950.",1,1
+876,1.0,0.0,0,19 mi,0,0
+90,0.5,0.5,1,"Eve, a 19-year-old werewolf hunter.",0,1
+624,0.0,1.0,1,The year Lux Aurumque was composed is unknown.,1,1
+623,1.0,0.0,1,"The plane that crashed belonged to Randy Hughes, who was Patsy Cline's manager.",0,1
+686,0.25,0.75,0,Saint-Étienne,1,0
+874,0.5,0.5,1,Air was co-written by Scott Joplin.,0,1
+626,1.0,0.0,0,National League A.,0,0
+751,0.5,0.5,1,The drug stores in which Warren Bryant was the CEO are located in Utah.,0,1
+688,1.0,0.0,0,World War II,0,0
+625,0.0,1.0,1,Suffolk County is the sister school's location.,1,1
+247,1.0,0.0,0,yes,0,0
+752,0.6666666666666666,0.33333333333333337,1,"No, George Avakian is a record producer and Bobby Managoff is a wrestler, but both of them have Armenian descent.",0,1
+31,0.6666666666666666,0.33333333333333337,1,"Randal Kleiser and Kyle Schickner are both American Hollywood personalities, but they originate from different states.",0,1
+877,1.0,0.0,0,Benny Andersson,0,0
+177,1.0,0.0,0,Ulster,0,0
+753,0.5,0.5,0,alcohol,0,0
+438,1.0,0.0,0,Serge Haroche,0,0
+879,1.0,0.0,0,Mary Stanley,0,0
+878,0.5,0.5,0,Laura Ellen Kirk,0,0
+312,0.5,0.5,1,Insight Sports is owned by Larry Tanenbaum.,0,1
+689,0.0,1.0,1,The fifth governor's birth year was not recorded.,1,1
+26,1.0,0.0,0,Rockstar Games,0,0
+557,0.5,0.5,0,"8,765,000",0,0
+248,0.5,0.5,0,Rashida Jones,0,0
+313,1.0,0.0,0,magazine,0,0
+152,0.25,0.75,0,RED,1,0
+375,0.5,0.5,0,My Own Worst Enemy,0,0
+376,1.0,0.0,0,Sri Lanka,0,0
+622,1.0,0.0,1,Men and women compete in different events.,0,1
+159,1.0,0.0,0,yes,0,0
+440,1.0,0.0,1,Rick Seibold has worked with artists who have performed in popular television series.,0,1
+377,0.5,0.5,0,John Anthony Randle,0,0
+881,1.0,0.0,1,Kerrygold Irish Cream Liqueur is owned by a company that mainly sells agricultural products.,0,1
+232,0.5,0.5,0,no,0,0
+249,1.0,0.0,0,"H. Bruce ""Lucky"" Humberstone",0,0
+22,0.5,0.5,0,Lorraine Vivian Hansberry,0,0
+86,0.75,0.25,1,Luck Be a Lady Tonight.,0,1
+755,0.75,0.25,0,Cognizant,0,0
+207,1.0,0.0,0,Cynthia Karen Loving,0,0
+527,0.3333333333333333,0.6666666666666667,1,The famous actor in Spaceballs is John Candy.,1,1
+754,0.0,1.0,1,"Exactly 1,600 German scientists were recruited.",1,1
+880,0.0,1.0,1,"""The Adventures of Brer Rabbit"" was adapted into ""Bambi"".",1,1
+441,0.0,1.0,1,Elizabeth Stuart was born first.,1,1
+882,1.0,0.0,0,Béla Viktor János Bartók,0,0
+439,0.16666666666666666,0.8333333333333334,1,Chris Vance is the second actor after Benedict Cumberbatch to play Frank Martin.,1,1
+442,0.0,1.0,1,Aurela Gaçe won the Albanian Music Festival.,1,1
+314,0.6666666666666666,0.33333333333333337,1,"One of the entrants was Raymond Mays, a talented driver from Bourne.",0,1
+756,0.0,1.0,1,The capital of Djoièzi is Moroni.,1,1
+39,0.0,1.0,1,The lead artist's name is Stephen Jackson.,1,1
+315,0.5,0.5,1,Dayton's department store.,0,1
+520,1.0,0.0,0,SBS,0,0
+250,1.0,0.0,0,Yakshagana,0,0
+195,1.0,0.0,0,American,0,0
+251,0.0,1.0,1,Simone Kirby was not in any Irish dramatic television series that aired between 2010 and 2014 on RTÉ Television.,1,1
+316,0.5,0.5,1,Emilio Botin was a banker that ran an institution that merged with Citigroup.,0,1
+757,0.6666666666666666,0.33333333333333337,1,"Matka"" gambling or satta"" originally involved betting on the opening and closing rates of cotton transmitted from the Bombay Stock Exchange.",0,1
+529,0.0,1.0,0,Polka,1,0
+530,1.0,0.0,0,"Palm Desert, California",0,0
+171,0.75,0.25,0,Lincolnshire Posy,0,0
+525,0.0,1.0,1,The Russian military produced the helicopter.,1,1
+317,0.0,1.0,1,Bundestag and Reichstag building are located in two different cities.,1,1
+379,0.5,0.5,1,"General Jefferson C. Davis died in 1879, but not in Alaska.",0,1
+318,1.0,0.0,0,Coronation of the Virgin,0,0
+19,0.0,1.0,1,The Babylonians invented the cuneiform script.,1,1
+883,0.0,1.0,1,"Trevor Prangley's other division is ""Heavyweight.""",1,1
+444,0.0,1.0,0,Pan American Games,1,0
+443,0.0,1.0,1,goalkeeper and free kick specialist.,1,1
+227,0.5,0.5,1,Hot Rod was founded earlier.,0,1
+445,0.0,1.0,0,yes,1,0
+38,1.0,0.0,1,The Indogrammodes genus of moths found in India has only one species.,0,1
+378,1.0,0.0,1,The combat flight simulator video game features the bombing of Los Angeles by Japan.,0,1
+758,1.0,0.0,1,"The population of Bassingham is 1,425.",0,1
+526,0.0,1.0,1,"The pop singer in the lead role in ""Tere Bin Laden"" received six Lux Style Awards.",1,1
+885,1.0,0.0,0,1 million,0,0
+252,0.0,1.0,0,Metallica,1,0
+511,1.0,0.0,0,Blackstar,0,0
+884,1.0,0.0,0,High Plains,0,0
+24,0.0,1.0,1,Pavel Urysohn and Leonid Levin collaborated on mathematical research.,1,1
+174,1.0,0.0,0,Donald Trump,0,0
+257,1.0,0.0,0,1975,0,0
+253,0.5,0.5,1,Michael Beasley played for Penny Hardaway.,0,1
+380,0.6666666666666666,0.33333333333333337,1,The Pirna 014 was designed by engineers from Junkers in Stuggart.,0,1
+383,0.5,0.5,1,Call Me Kuchu and That's Dancing! are both movies about movement.,0,1
+320,0.5,0.5,1,"The song Zaalima is from ""Jab Harry Met Sejal"".",0,1
+381,1.0,0.0,0,Train to Busan,0,0
+760,1.0,0.0,0,Fox,0,0
+218,1.0,0.0,0,Sports Illustrated,0,0
+319,1.0,0.0,1,Chris Evert is not from Italy but Mara Santangelo is.,0,1
+382,1.0,0.0,0,"1,647",0,0
+209,1.0,0.0,0,Heroica Matamoros,0,0
+888,1.0,0.0,1,Jinchang and Liling are situated in Asia.,0,1
+886,1.0,0.0,0,no,0,0
+198,0.5,0.5,0,East Dulwich,0,0
+34,1.0,0.0,0,Oleg Menshikov,0,0
+759,0.0,1.0,1,"Abraham Roqueñi Iglesias holds notable wins over Andy Souwer, the Dutch welterweight shoot boxer, who he defeated in 2005 and 2015.",1,1
+384,1.0,0.0,0,Micromeria,0,0
+446,1.0,0.0,0,Sleeper Agent,0,0
+887,1.0,0.0,1,The species of Spruce found in Rensselaer Plateau is native to the Adirondack Mountains.,0,1
+256,1.0,0.0,0,Brazil,0,0
+762,1.0,0.0,0,Edward Burne-Jones,0,0
+35,1.0,0.0,0,"Las Vegas, Nevada",0,0
+761,0.6,0.4,0,game shows,0,0
+385,1.0,0.0,0,Camp Chapman attack,0,0
+448,0.0,1.0,1,United 300 and 300 were both made in different countries.,1,1
+548,0.6666666666666666,0.33333333333333337,1,Robert Oliver Reed died in 1998.,0,1
+447,1.0,0.0,0,no,0,0
+258,1.0,0.0,1,Jessica Alba made $1.7 billion.,0,1
+321,1.0,0.0,1,Alvarezsauroidea was named after a historian.,0,1
+763,1.0,0.0,0,his speed on the ball,0,0
+259,0.0,1.0,0,300,1,0
+20,0.0,1.0,1,"Mall del Norte was actually the largest mall in South Texas until La Plaza Mall was built, making it the second largest.",1,1
+260,0.5,0.5,1,The architect who designed the Lincoln Memorial was John Bacon.,0,1
+502,1.0,0.0,0,South Park,0,0
+181,0.0,1.0,1,"The silver medalist, Joe Joyce, was born in the same year as the Summer Olympics.",1,1
+322,0.0,1.0,1,George Marshall was born before Allan Dwan.,1,1
+545,1.0,0.0,0,Burchardia,0,0
+890,1.0,0.0,0,Count Francesco Baracca,0,0
+449,1.0,0.0,0,yes,0,0
+37,1.0,0.0,1,Anthony Precourt owns the team.,0,1
+43,1.0,0.0,0,Walt Disney,0,0
+261,0.5,0.5,0,plants,0,0
+230,0.5,0.5,1,"Pam Veasey is American, but Jon Jost is not a native American.",0,1
+323,0.5,0.5,1,R Adams Cowley's surgical clamp was a favorite tool of President Eisenhower.,0,1
+388,1.0,0.0,0,1969,0,0
+450,1.0,0.0,0,The Melvins,0,0
+451,1.0,0.0,0,Brothers Quay,0,0
+200,0.5,0.5,1,Both were involved in filmmaking.,0,1
+36,0.0,1.0,1,"Van Halen is responsible for bolstering Quiet Riot's hit ""Metal Health.""",1,1
+549,1.0,0.0,0,1892,0,0
+176,1.0,0.0,0,"August 5, 1962",0,0
+764,1.0,0.0,0,Bihar,0,0
+170,0.0,1.0,1,Audrey Kathryn Lindvall was discovered by IMG scout at the age of 14.,1,1
+547,1.0,0.0,0,"more than 150 works, including five symphonies and eight operas.",0,0
+386,0.0,1.0,0,The Classic Crime,1,0
+263,1.0,0.0,0,"Washington, D.C.",0,0
+892,0.3333333333333333,0.6666666666666667,1,Trade unions were legalized during Tony Blair's administration.,1,1
+387,1.0,0.0,0,Australia,0,0
+324,0.0,1.0,1,Anita Lane was older than Nick Cave.,1,1
+891,0.75,0.25,1,Bonds on Bonds aired on NBC.,0,1
+389,1.0,0.0,1,The album that contained Dave Grohl's favorite song was released in 2011.,0,1
+766,0.6666666666666666,0.33333333333333337,1,Lookwell was almost picked up as a series by David Letterman.,0,1
+765,0.0,1.0,1,The Carolinian is the busiest route.,1,1
+893,1.0,0.0,1,The 15th pick of the 2011 NFL Draft was born in the summer of 1989.,0,1
+453,0.0,1.0,1,Cia Berg was inducted into the Rock and Roll Hall of Fame.,1,1
+325,0.6666666666666666,0.33333333333333337,1,Borovička is made of juniper berries and contains the chemical formula C2H5OH known as ethanol.,0,1
+25,1.0,0.0,0,Charleston,0,0
+264,1.0,0.0,0,Kelli Ward,0,0
+452,0.0,1.0,1,The Jazz did not sign any other free agents.,1,1
+390,1.0,0.0,0,Anthony Hopkins and Jessica Lange,0,0
+767,0.5,0.5,0,Lancashire League,0,0
+196,0.0,1.0,1,James Henry Miller's wife was British.,1,1
+233,0.8,0.19999999999999996,0,Keyshia Cole,0,0
+262,0.5,0.5,1,"Subway 400 is held in 45,000 countries.",0,1
+894,1.0,0.0,0,1843,0,0
+327,1.0,0.0,1,"The creator of the current arrangement of the ""Simpson's Theme"" was born in 1941.",0,1
+178,0.5,0.5,0,Carlos Arturo Bacca Ahumada,0,0
+768,0.0,1.0,0,eclectic mix of musical styles,1,0
+889,0.0,1.0,1,The 2013 slasher film that Alexandra Daddario starred in was directed by Michael Bay.,1,1
+769,0.0,1.0,1,Henri Leconte won more Grand Slam titles.,1,1
+506,0.0,1.0,1,The Nol Card actually came out first.,1,1
+515,0.0,1.0,1,The British/Irish digital television channel that features Spliced first launched in 2003.,1,1
+537,0.5,0.5,1,"Jeremy Brock adapted ""The Eagle"" from his own screenplay, ""Mrs Brown"".",0,1
+32,1.0,0.0,1,Southwest Georgia Regional Airport is not in Tennessee.,0,1
+326,0.6666666666666666,0.33333333333333337,0,George Gipp,0,0
+391,1.0,0.0,0,yes,0,0
+44,0.6666666666666666,0.33333333333333337,0,"""Cosmicomics""",0,0
+330,0.0,1.0,1,Annette Bening received her Hollywood star in 1988.,1,1
+228,0.0,1.0,0,no,1,0
+267,1.0,0.0,0,American,0,0
+454,0.3333333333333333,0.6666666666666667,1,"Hall of Fame Racing is a team created by the joint venture which includes QBs Roger Staubach, Troy Aikman and Bill Saunders, but not in 1989.",1,1
+455,1.0,0.0,1,Benjamin Halfpenny played for a club that played home matches in a stadium.,0,1
+507,0.5,0.5,0,oil of vitriol,0,0
+265,0.6666666666666666,0.33333333333333337,0,John Calvin Coolidge Jr.,0,0
+23,1.0,0.0,0,Smriti Malhotra,0,0
+770,1.0,0.0,0,American-Canadian,0,0
+896,0.0,1.0,1,"Lamborghini, based in Rome.",1,1
+456,1.0,0.0,1,The globe that succeeded the Globe of Peace as the world's largest rotating globe is located in DeLorme mapping corporation.,0,1
+392,1.0,0.0,0,"Ronald Lawrence ""Ron"" Kovic",0,0
+266,1.0,0.0,0,Sidney Hall,0,0
+393,1.0,0.0,0,English,0,0
+328,0.5,0.5,1,"Shere Khan is a fictional character that appears in the book ""Mowgli's Journey.""",0,1
+534,0.25,0.75,1,"Max Ehrmann, born in September 1872, wrote ""Ascension"" that was used in devotional and spoken word recordings.",1,1
+895,0.0,1.0,1,"The English disc jockey who hosted ""The Voice UK"" was born on Christmas Day.",1,1
+394,1.0,0.0,0,Victorian era,0,0
+17,0.75,0.25,1,"While Jane and First for Women are both publications, one is aimed at women while the other is not.",0,1
+457,0.0,1.0,1,Kim Clijsters is older by months.,1,1
+329,0.6666666666666666,0.33333333333333337,0,Greta Garbo,0,0
+268,0.0,1.0,1,Faxe and Heineken are brewed all around the world.,1,1
+897,0.5,0.5,0,Operation North Wind,0,0
+522,0.5,0.5,0,The Tarnished Eye,0,0
+224,1.0,0.0,1,The First Silesian war was fought against Frederick II.,0,1
+772,0.0,1.0,1,"""Funnybot"" is the third episode of the fifteenth season of ""American Dad,"" created by Seth MacFarlane.",1,1
+226,0.0,1.0,1,"The song that ""Just the Two of Us"" lost to spent ten weeks at No. 1 on the ""Billboard"" Hot 100.",1,1
+771,1.0,0.0,0,1993,0,0
+898,1.0,0.0,1,Lee Il-hyung's first feature film was released by Paramount.,0,1
+332,1.0,0.0,0,743,0,0
+458,1.0,0.0,0,The Joshua Tree,0,0
+41,0.6666666666666666,0.33333333333333337,1,Axle Whitehead was a part of an American comedy-drama television series that is a remake of the British series and set in Los Angeles.,0,1
+395,0.0,1.0,1,People Express Airlines was affected by the strike.,1,1
+202,1.0,0.0,0,Chile,0,0
+331,1.0,0.0,1,Emma Rigby starred in Hollyoaks.,0,1
+396,1.0,0.0,0,Dr. Teeth and The Electric Mayhem,0,0
+269,0.2,0.8,1,Kay Aldridge starred in Golden Hoofs.,1,1
+220,0.5,0.5,1,Hurricane Frances caused the Swannanoa to flood.,0,1
+555,0.0,1.0,1,villainous and serious roles.,1,1
+334,0.0,1.0,1,International Data Group owned GamePro.,1,1
+900,1.0,0.0,0,Tanya Donelly,0,0
+201,1.0,0.0,0,Frida,0,0
+459,1.0,0.0,0,Sir C. V. Raman,0,0
+270,1.0,0.0,0,Badr Hari,0,0
+774,0.0,1.0,0,plant,1,0
+899,0.8,0.19999999999999996,0,Canada,0,0
+203,1.0,0.0,0,Leroy,0,0
+333,0.0,1.0,1,Cornel West was born earlier.,1,1
+460,1.0,0.0,0,The Punisher,0,0
+561,1.0,0.0,0,no,0,0
+901,0.0,1.0,1,"Dixit Dominus is a psalm setting by Antonio Vivaldi, who was a famous Italian composer.",1,1
+775,1.0,0.0,0,Zwolle,0,0
+397,0.0,1.0,1,The George Washington University Hospital and MedStar Washington Hospital Center are located in different cities.,1,1
+42,1.0,0.0,1,"Rakekniven was climbed in 1996 by a mountaineer who is a citizen of the United States, also known as an American.",0,1
+461,1.0,0.0,0,Objectivist,0,0
+562,1.0,0.0,0,"108,249",0,0
+550,0.5,0.5,0,Sejm of the Polish–Lithuanian Commonwealth,0,0
+776,1.0,0.0,0,New York City,0,0
+773,0.2857142857142857,0.7142857142857143,0,13-18,1,0
+273,0.0,1.0,1,The Oxus cobra contains various ions for their venom to be active.,1,1
+399,0.5,0.5,1,Julian Clary presented the Underdog Show for five weeks.,0,1
+208,0.5,0.5,1,The 2017 Supercheap Auto Bathurst 1000 will be held at the racing track with the official name of Mount Panorama.,0,1
+398,0.0,1.0,1,The Mount Panorama Circuit track is longer than 7 km.,1,1
+272,1.0,0.0,0,MTV VJ,0,0
+777,0.0,1.0,0,Jimmie Ross,1,0
+462,1.0,0.0,0,Modern Drummer,0,0
+531,0.0,1.0,1,Anne Frank completed more books.,1,1
+48,1.0,0.0,0,Sammy Wilson,0,0
+335,0.0,1.0,1,The Duke Blue Devils football team was coached by David Coleman at Wallace Wade Stadium and won multiple college football coach of the year awards.,1,1
+336,0.0,1.0,1,The male lead of the film Fishtales is British.,1,1
+274,0.5,0.5,1,Curve has no more members.,0,1
+400,1.0,0.0,1,Wizzo and YG are from Southern California.,0,1
+902,0.5,0.5,0,Requiem in White,0,0
+463,0.5,0.5,0,England,0,0
+554,0.5,0.5,0,Luc Besson,0,0
+903,1.0,0.0,1,Signet Jewelers owns Delaware Jewelry Retailer.,0,1
+45,1.0,0.0,0,no,0,0
+337,0.0,1.0,1,Sojourners and KO Magazine share different publication formats.,1,1
+21,1.0,0.0,0,William of Wykeham,0,0
+540,0.0,1.0,1,Fred Mundee did not attend South High School.,1,1
+904,0.0,1.0,0,Crumb,1,0
+187,1.0,0.0,0,Domesday Book,0,0
+223,0.5,0.5,0,northern Italian region,0,0
+205,1.0,0.0,0,1954,0,0
+339,0.0,1.0,1,The year Curious George was released with the soundtrack record company was 2007.,1,1
+27,1.0,0.0,0,surgeon Major Frank Burns,0,0
+905,0.5,0.5,1,Polaris Industries is based in Alaska.,0,1
+275,1.0,0.0,0,Steven Tyler,0,0
+779,0.5,0.5,1,Norbert Holm was arrested and later demoted because of his Chief of Operations association with a military strategist.,0,1
+539,1.0,0.0,1,Gordie Tapp played the onscreen husband.,0,1
+402,0.0,1.0,1,Peter O'Meara played Norman Dike's brother.,1,1
+401,0.75,0.25,0,Hawaii,0,0
+338,0.0,1.0,0,1867,1,0
+403,0.0,1.0,0,PUBG Corp.,1,0
+465,0.5,0.5,1,"The award in which Chris Noonan was nominated for his work in ""Babe"" was presented by the Golden Globe.",0,1
+276,0.5,0.5,0,15,0,0
+504,1.0,0.0,0,2016 Kansas City Chiefs season,0,0
+906,0.3333333333333333,0.6666666666666667,0,Southern Baptist Theological Seminary,1,0
+279,0.0,1.0,1,The river on which Wilbur Dam is located stretches for approximately 90 miles.,1,1
+466,0.0,1.0,1,"Yes, Terence Davies and Richard Wallace shared British-American dual citizenship.",1,1
+40,1.0,0.0,0,Indian pariah dog,0,0
+204,0.5,0.5,0,Target Corporation,0,0
+278,0.0,1.0,1,The BFG can be found in almost all id Software games.,1,1
+464,0.6666666666666666,0.33333333333333337,0,Gisken Armand Lillo-Stenberg,0,0
+780,0.5,0.5,0,Deadpool 2,0,0
+30,1.0,0.0,0,Bob Stoops,0,0
+277,1.0,0.0,0,United States,0,0
+340,0.0,1.0,0,Sinaloa,1,0
+781,1.0,0.0,0,Edward Teller,0,0
+341,0.8,0.19999999999999996,1,The cast in The Guardians was born in 1991.,0,1
+467,0.5,0.5,0,Denis Johnson,0,0
+510,0.0,1.0,1,The president who appointed Thomas C. Mann was a republican.,1,1
+907,0.0,1.0,1,Jesus Camp was actually released first.,1,1
+18,0.6666666666666666,0.33333333333333337,1,Kimberly was played by Amy Johnson.,0,1
+180,0.5,0.5,1,"Although Walter Darwin Coy was part of the cast, the narrator of ""Frontier"" was actually Richard Boone.",0,1
+404,0.0,1.0,1,There were 9.3 million people in the United Arab Emirates in 2013.,1,1
+46,0.0,1.0,1,The first executive director of the Developing Communities Project was Barack Obama's father.,1,1
+468,1.0,0.0,0,plants,0,0
+909,0.6666666666666666,0.33333333333333337,1,"In 2005, Li Ming starred opposite Donnie Yen and was directed by an artist named Tsun Hark.",0,1
+782,1.0,0.0,0,1928,0,0
+908,0.0,1.0,1,"The song that inspired ""Everytime"" was actually classical.",1,1
+175,0.0,1.0,1,Hoosier Lottery is unique to Indiana.,1,1
+280,0.5,0.5,1,The private liberal arts college created EnVISIONing Annapolis.,0,1
+556,0.5,0.5,0,George V,0,0
+64,0.0,1.0,1,The river with Wild Horse Creek is about 400 miles long.,1,1
+778,0.0,1.0,0,ten weeks,1,0
+784,1.0,0.0,1,"No, Aşiyan Museum is located in Beşiktaş.",0,1
+783,0.75,0.25,0,Enterprise Rent-A-Car,0,0
+405,0.0,1.0,1,The Kaurna name for the river near Mount Torrens is Onkaparinga River.,1,1
+184,0.0,1.0,1,Derek Sherinian is the Literary Editor.,1,1
+342,0.5,0.5,1,"Allie Goertz wrote a song about Milhouse, a popular TV character, named after an influential political figure.",0,1
+29,1.0,0.0,0,Bruce Darnell,0,0
+514,0.5,0.5,0,US 60,0,0
+344,0.0,1.0,1,Bob Scucci used to work at the Mirage Hotel and Casino.,1,1
+910,1.0,0.0,1,Chang was born before the war ended.,0,1
+471,1.0,0.0,0,Saludos Amigos,0,0
+469,0.0,1.0,1,"The film was based on the popular book ""Cats and mice"" by Mary Johnson.",1,1
+911,1.0,0.0,0,Hyde United Football Club,0,0
+281,0.0,1.0,1,Muse has fewer band members.,1,1
+33,0.5,0.5,0,Catherine Deneuve,0,0
+470,1.0,0.0,0,Apple A4,0,0
+186,0.5,0.5,1,Diane Roark was wrongly suspected of leaking information to a New York Times reporter who has co-written about the history of the CIA.,0,1
+407,0.0,1.0,1,Walter Francis Willcox received his degrees from Harvard.,1,1
+206,1.0,0.0,0,Twenty One Pilots,0,0
+519,0.0,1.0,1,Javier Mora was defeated in Brazil.,1,1
+408,0.5,0.5,0,2012 Summer Olympics,0,0
+346,0.0,1.0,0,$268 million,1,0
+406,0.8181818181818182,0.18181818181818177,0,Ireland,0,0
+345,0.0,1.0,1,Adrian Boult conducted at the Opera House in Covent Garden.,1,1
+785,0.3333333333333333,0.6666666666666667,0,williamsworks,1,0
+912,0.0,1.0,1,The President of Egypt that changed the Hamayouni Decree was born in 1927.,1,1
+210,1.0,0.0,0,yes,0,0
+508,0.0,1.0,1,Samuel Johnson moved to a football club called Manchester United.,1,1
+282,0.5,0.5,0,David Ayer,0,0
+68,0.0,1.0,1,It Takes a Family was not published.,1,1
+914,0.0,1.0,1,Fuling District and Qidong are located in two different countries.,1,1
+221,0.0,1.0,1,Cortez Masto was the 32nd Attorney General of Wyoming.,1,1
+283,1.0,0.0,0,"Founded in 1868, WSU consists of 13 schools and colleges offering nearly 350 programs to more than 27,000 graduate and undergraduate students",0,0
+787,1.0,0.0,0,a Vice documentary,0,0
+79,1.0,0.0,1,Hacker-Pschorr Brewery must limit their beer's purity.,0,1
+189,1.0,0.0,0,Best Young Actor/Actress,0,0
+57,0.0,1.0,0,eight,1,0
+523,0.5,0.5,1,Frank Pepe Pizzeria Napoletana sells only pizza.,0,1
+285,0.5,0.5,1,Baltimore's Marching Ravens play at Camden Yards.,0,1
+553,1.0,0.0,1,"third, just like ""Band on the Run"".",0,1
+70,0.0,1.0,1,"KKWQ-FM is a popular radio station covering multiple areas in the northern Lake of the Woods County in Minnesota, and is not limited to the Northwest Angle.",1,1
+284,1.0,0.0,1,Steve Jones and Blag Dahlia share the occupation of musician.,0,1
+62,0.6666666666666666,0.33333333333333337,1,"Westchester County, renamed in honor of a Revolutionary War hero, is represented by Kevin Byrne.",0,1
+410,1.0,0.0,0,Abigail Breslin,0,0
+786,1.0,0.0,1,Dendranthema boreale and other plants have different names.,0,1
+411,0.0,1.0,1,The football forward is from Croatia.,1,1
+347,0.3333333333333333,0.6666666666666667,1,"Michael Corvin and Scott Speedman both star in the movie ""Underworld"".",1,1
+788,0.6666666666666666,0.33333333333333337,1,Snow White is based on a German fairy tale by Hans Christian Andersen.,0,1
+409,0.0,1.0,0,1664,1,0
+789,0.5,0.5,0,Dan Jurgens,0,0
+913,0.25,0.75,1,Robert Downey Jr.,1,1
+472,0.3333333333333333,0.6666666666666667,0,country,1,0
+348,0.0,1.0,1,Neymar Jr. endorsed the Mercurial Vapor boot.,1,1
+915,0.5,0.5,1,The End of the Innocence was a single by Glenn Frey.,0,1
+543,0.25,0.75,0,Key deer,1,0
+473,0.75,0.25,1,"You can see The Wrekin from Beetham Tower, which is quite tall.",0,1
+71,1.0,0.0,0,yes,0,0
+509,1.0,0.0,0,Belgium,0,0
+349,0.5,0.5,0,Javier Sotomayor,0,0
+475,1.0,0.0,0,Memphis,0,0
+343,0.0,1.0,0,1982,1,0
+286,0.6666666666666666,0.33333333333333337,1,"Manchester City Football Club moved to the Etihad Stadium, located in Manchester, England, in 2005.",0,1
+413,1.0,0.0,0,game,0,0
+191,0.6666666666666666,0.33333333333333337,1,Inna studied at Mangalia University.,0,1
+412,0.6666666666666666,0.33333333333333337,0,Amelia Earhart,0,0
+474,0.0,1.0,1,The mother of Hillary Clinton was the director of the Institute of Muslim Minority Affairs.,1,1
+58,1.0,0.0,0,Johannesburg,0,0
+790,0.5,0.5,0,Valley View Casino Center,0,0
+501,1.0,0.0,0,The Saimaa Gesture,0,0
+212,0.3333333333333333,0.6666666666666667,1,The real name of the Welsh electronic music producer DJ who have been visited the night club called Flux in Vienna around hundreds of times is John Smith.,1,1
+75,1.0,0.0,0,"May 16, 1947",0,0
+792,1.0,0.0,1,"""Friends in Low Places"" was performed by Brooks Garth.",0,1
+350,0.0,1.0,0,Michael Dowse,1,0
+414,1.0,0.0,0,Jaeger Corps,0,0
+225,1.0,0.0,0,August Burns Red,0,0
+916,1.0,0.0,0,Aunt Marge,0,0
+289,1.0,0.0,0,Pan-Africanism,0,0
+918,0.0,1.0,0,1908,1,0
+290,1.0,0.0,0,Martin Heidegger,0,0
+476,0.0,1.0,1,"Vodafone sold its New Zealand operations to BellSouth, who are based in Chicago.",1,1
+793,1.0,0.0,0,no,0,0
+287,0.6666666666666666,0.33333333333333337,1,Matheson & Company was founded by Jardine Matheson.,0,1
+67,0.5,0.5,0,2001,0,0
+353,1.0,0.0,0,American,0,0
+478,0.0,1.0,1,The voice actor was not disclosed.,1,1
+288,1.0,0.0,0,"1,200",0,0
+919,0.0,1.0,1,The commune of Baia.,1,1
+560,0.0,1.0,1,"The actor who played Samson in the 1949 film ""Samson and Delilah"" was an Englishman named Charles Laughton.",1,1
+479,1.0,0.0,0,magazine,0,0
+351,0.25,0.75,0,Professor Emeritus,1,0
+917,0.5,0.5,1,Canton Road Station was beneath the supermarket in Tsim Sha Tsui.,0,1
+518,0.5,0.5,0,Fu Manchu,0,0
+188,0.5,0.5,1,"Cohousing is a community designed around a shared space, an example being the Yamato-Takada Cohousing in Japan.",0,1
+74,0.5,0.5,1,Baker Mayfield won the starting job at Oklahoma over Tom Brady.,0,1
+415,0.0,1.0,1,The character in Quantico is the same actor who starred in Tower Block.,1,1
+199,0.5,0.5,1,Caricia radio station was broadcasted in Spanish and played oldies from artists such as Leo Dan.,0,1
+920,1.0,0.0,0,L&J Company,0,0
+480,1.0,0.0,1,Bob Barker hosted Miss USA 1968 and Truth or Consequences.,0,1
+352,0.0,1.0,1,"Arthur Darvill and Matt Smith were both in the hit British drama ""Downton Abbey"".",1,1
+558,1.0,0.0,0,Glassroth v. Moore,0,0
+354,0.5,0.5,1,"""Take Me To Church"".",0,1
+417,0.0,1.0,1,"Katie Cassidy played Ruby in the TV drama ""Arrow.""",1,1
+477,1.0,0.0,1,"Steve Peterson played a character in ""The Body,"" ""The Author's Thumb,"" ""Taming of the Shrew,"" ""Twelfth Night,"" and ""Hamlet.""",0,1
+541,1.0,0.0,0,1400 mi,0,0
+291,1.0,0.0,0,Radiohead,0,0
+216,1.0,0.0,0,The Usual Suspects,0,0
+795,1.0,0.0,0,"""Dean of Game Show Hosts""",0,0
+418,0.0,1.0,0,2006,1,0
+416,0.3333333333333333,0.6666666666666667,1,"The guest appearances in ""Animal Ambition"" include personalities such as Mr Probz, Schoolboy Q, and Prodigy, but only Prodigy was born with the name Albert Johnson.",1,1
+921,1.0,0.0,0,Christopher Hitchens,0,0
+65,0.8,0.19999999999999996,0,Mar-a-Lago,0,0
+292,1.0,0.0,1,Altrincham is known for Bucklow and Trafford.,0,1
+794,0.5,0.5,0,Roy Orbison,0,0
+355,0.0,1.0,1,The USS Bowfin Submarine opened to public tours in the year 1982.,1,1
+481,1.0,0.0,1,Cornershop released the single which originally reached number 60 on the UK Singles Chart in 1997.,0,1
+923,1.0,0.0,0,Christopher Paolini,0,0
+796,0.5,0.5,0,The DFB Sports Court,0,0
+222,1.0,0.0,0,Rollo,0,0
+356,0.5,0.5,0,Dennis Gerrard Stephen Doherty,0,0
+483,1.0,0.0,0,Pride Divide,0,0
+231,0.0,1.0,1,Damontre Lamounte Moore played football and earned All-American honors in the SEC Eastern Division.,1,1
+521,1.0,0.0,0,Kosači,0,0
+922,1.0,0.0,0,Xinzhou () is a prefecture-level city,0,0
+419,1.0,0.0,1,"The song ""Boom"" features the legal name Lil Jon, born on January 17, 1971.",0,1
+54,1.0,0.0,0,Tuppence Middleton,0,0
+797,0.6666666666666666,0.33333333333333337,0,Park Dietz,0,0
+294,0.0,1.0,1,"The Temagami-Lorrain Mine has been revitalized, making its value comparable to Meadowbank Gold Mine.",1,1
+55,1.0,0.0,1,Jolen is a member of the alien race of superhumans created by Marvel Comics.,0,1
+77,1.0,0.0,0,yes,0,0
+293,0.0,1.0,0,New Orleans Saints,1,0
+546,1.0,0.0,1,Mindless Self Indulgence and Tappi Tíkarrass are both musical groups.,0,1
+357,1.0,0.0,0,Riccardo Cocchi,0,0
+482,1.0,0.0,0,California,0,0
+799,1.0,0.0,0,plants,0,0
+192,0.6666666666666666,0.33333333333333337,0,Corpse Bride,0,0
+422,1.0,0.0,0,no,0,0
+484,1.0,0.0,0,playwright,0,0
+421,1.0,0.0,0,Cheltenham,0,0
+791,0.0,1.0,1,Shenandoah Valley Regional Airport is not in the United States.,1,1
+420,0.0,1.0,1,Leo Jones from Doctor Who hosted The Voice UK.,1,1
+358,0.0,1.0,1,The 2010 head coach of the SMU Mustangs football team is now coaching in the NFL.,1,1
+798,0.0,1.0,1,Superheaven and Oceansize belong to different subgenres.,1,1
+924,0.3333333333333333,0.6666666666666667,1,Bethesda Softworks and ZeniMax Online Studios jointly developed the game.,1,1
+359,0.0,1.0,1,The film was released in 1938.,1,1
+528,0.5,0.5,1,Jane's Addiction and Weeping Willows play different genres.,0,1
+524,0.6666666666666666,0.33333333333333337,0,Johnny English Reborn,0,0
+296,1.0,0.0,0,psychic abilities,0,0
+925,1.0,0.0,0,Peter F. Paul,0,0
+73,0.3333333333333333,0.6666666666666667,1,"""The Stage"" was the first single of Avenged Sevenfold's seventh studio album, released on October 28, 2016 at 8:45 PM.",1,1
+217,0.0,1.0,1,First for Women was started first.,1,1
+926,1.0,0.0,0,Virginia Wade,0,0
+295,1.0,0.0,0,17%,0,0
+505,1.0,0.0,0,Saturday Night Live,0,0
+533,0.0,1.0,1,"Santa Fe, New Mexico",1,1
+517,1.0,0.0,0,the Yahi tribe,0,0
+423,0.0,1.0,1,The 2016 Baylor Bears football team were not invited to any event.,1,1
+297,1.0,0.0,0,Na Do-hyang,0,0
+72,1.0,0.0,0,Glasgow,0,0
+76,1.0,0.0,0,"2,523",0,0
+183,0.0,1.0,1,Jake David Shapiro was best known for being the screenwriter of a film directed by Steven Spielberg.,1,1
+485,0.5,0.5,1,Max Volmer won a Nobel Prize in 1943 and is associated with Otto Stern.,0,1
+298,0.5,0.5,1,"Bath School of Art and Design is a standalone art college in Bath, England.",0,1
+190,1.0,0.0,1,"Jasminum multipartitum is native to a territory that spans across multiple southern African countries, including Zimbabwe.",0,1
+927,1.0,0.0,0,Smart,0,0
+360,1.0,0.0,0,Battle of Liège and the Battle of Tannenberg,0,0
+800,1.0,0.0,0,Ottokar Kernstock,0,0
+486,0.5,0.5,1,Rob Jenkins starred in the Australian thriller film Blade Runner 2049.,0,1
+63,1.0,0.0,0,U.S. Route 51,0,0
+802,0.0,1.0,1,Ross Lynch is the older one.,1,1
+299,1.0,0.0,0,is a British author,0,0
+487,1.0,0.0,0,Syco Music and Columbia Records,0,0
+488,1.0,0.0,0,Nokia Theatre,0,0
+213,0.0,1.0,0,Amanda Curtis,1,0
+361,1.0,0.0,0,British Cunard Line,0,0
+513,0.0,1.0,1,Charley and the Angel was released second.,1,1
+801,0.5,0.5,0,Rihanna,0,0
+424,0.3333333333333333,0.6666666666666667,0,Exeter Book,1,0
+362,1.0,0.0,0,Firs,0,0
+928,0.0,1.0,1,The district that Gawthorpe is in is not represented by any single person.,1,1
+552,1.0,0.0,0,eight,0,0
+803,1.0,0.0,0,film director,0,0
+50,1.0,0.0,0,yes,0,0
+363,0.5,0.5,1,"Minoru Suzuki was a founding member of Pro Wrestling Fujiwara Group, one of the most popular wrestling promotions based in Tokyo.",0,1
+930,0.5,0.5,1,The Oberoi family's hotel company is based in Mumbai.,0,1
+426,1.0,0.0,0,no,0,0
+300,0.5,0.5,1,"Yes, both James Agee and Nelly Sachs won Nobel Prizes in Literature, with Agee receiving it in 1958 and Sachs in 1966.",0,1
+193,0.5,0.5,0,Ben Miller,0,0
+219,1.0,0.0,0,1952,0,0
+59,1.0,0.0,0,Tiffany & Company,0,0
+185,1.0,0.0,1,San Antonio Spurs.,0,1
+301,0.0,1.0,0,Barton Mine,1,0
+563,0.5,0.5,1,It's actually Main Street that separates West Ridge from the northern neighborhood of North Ridge.,0,1
+364,0.5,0.5,0,Torah and Talmudic scholar,0,0
+929,0.6666666666666666,0.33333333333333337,1,"The Honoured Society is a Calabrian 'Ndrangheta criminal confederation, started in Melbourne and currently active in Italy.",0,1
+804,0.6666666666666666,0.33333333333333337,0,Jessica Marie Alba,0,0
+931,1.0,0.0,0,Kamal Shalorus,0,0
+490,0.0,1.0,1,"Toronto Maple Leafs, briefly.",1,1
+179,0.5,0.5,0,The Go-Go's,0,0
+805,0.5,0.5,0,Liverpool Football Club,0,0
+806,1.0,0.0,1,Miloš Forman is not from Great Britain.,0,1
+427,0.0,1.0,1,The by-election was held in 1972.,1,1
+425,0.0,1.0,1,"None of the actors from ""Pennies from Heaven"" appeared in ""Kenneth Williams: Fantabulosa!""",1,1
+491,1.0,0.0,0,"7,585",0,0
+69,1.0,0.0,0,yes,0,0
+489,0.0,1.0,1,"The poem Arlette Roxburgh sings is called ""The Battle of Baltimore"".",1,1
+512,1.0,0.0,0,John Tardy,0,0
+302,1.0,0.0,0,World War II,0,0
+933,1.0,0.0,0,Bath,0,0
+365,1.0,0.0,0,1945,0,0
+428,1.0,0.0,0,yes,0,0
+492,0.0,1.0,1,The solo artist that contributed to Real Damage belongs to an experimental genre.,1,1
+172,0.0,1.0,1,The man who opened the Royal Spa Centre in 1972 was a member of the Labour Party.,1,1
+559,1.0,0.0,1,"The Sia song ""Never Give Up"" is from the soundtrack of a film that is based on a true story.",0,1
+367,0.0,1.0,1,"""Blood"" was actually co-written with James Cameron.",1,1
+544,1.0,0.0,0,1960,0,0
+807,1.0,0.0,1,Ricky Dene Gervais was born on June 25th.,0,1
+304,1.0,0.0,0,yes,0,0
+429,0.3333333333333333,0.6666666666666667,1,"The director of ""Doctor Strange"" is Michael Bay, known for his explosive action scenes.",1,1
+493,1.0,0.0,0,People's Republic of China,0,0
+16,0.0,1.0,0,Elyes Gabel,1,0
+66,1.0,0.0,0,Dirt,0,0
+932,1.0,0.0,0,"Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo.",0,0
+229,1.0,0.0,1,"The song ""Good Life"" was featured in a 2017 movie about cars.",0,1
+303,0.6,0.4,1,"Everton, their Goodison Park home, is a football stadium located in Walton, Liverpool, in the United Kingdom.",0,1
+516,0.6666666666666666,0.33333333333333337,1,The small medieval castle is located off Castlebay on Barra island in Scotland.,0,1
+366,0.0,1.0,1,Yury Grigorovich was Vladimir's choreographer for many years.,1,1
+78,0.0,1.0,1,Alexandre Rockwell and Am Rong are not in the same profession.,1,1
+368,1.0,0.0,0,1988,0,0
+935,0.5,0.5,1,Hartland Swamp WMA is in Orleans County.,0,1
+494,0.0,1.0,1,The form of music played by Die Rhöner Säuwäntzt originated in the United Kingdom,1,1
+934,0.5,0.5,0,Jens Lehmann,0,0
+47,1.0,0.0,0,Cataloochee,0,0
+536,1.0,0.0,1,The Boren-McCurdy proposals were partially brought about by David Beckham.,0,1
+431,0.5,0.5,0,John Carney,0,0
+49,0.5,0.5,1,"""Puss in Boots: The Three Diablos"" sequel producer: Pixar.",0,1
+808,0.6666666666666666,0.33333333333333337,0,Carol Lawrence,0,0
+503,1.0,0.0,0,Ford Fusion,0,0
+809,1.0,0.0,0,The Producers,0,0
+211,0.5,0.5,1,The company that manufactured PDQ Chocolate is a subsidiary of Twinings which acquired the brand from Novartis.,0,1
+51,0.5,0.5,0,Lullwater Estate,0,0
+52,0.0,1.0,0,I-90,1,0
+214,1.0,0.0,0,the 23rd Summer Deaflympics,0,0
+306,1.0,0.0,0,2005,0,0
+369,0.3333333333333333,0.6666666666666667,1,"The city where Kerry Saxby-Junna was born had a population of 6,960 purple kangaroos.",1,1
+432,0.0,1.0,0,beetle,1,0
+433,1.0,0.0,0,Rock,0,0
+810,1.0,0.0,1,"Peter Davison was in Holding the Fort and also hosted ""Game for a Laugh"", ""You Bet!"" and ""Stars in Their Eyes"".",0,1
+542,1.0,0.0,0,Lyudmila Stefanovna Petrushevskaya,0,0
+56,0.0,1.0,1,Russian-born American,1,1
+495,0.5,0.5,0,The University of Toronto,0,0
+308,1.0,0.0,1,Stanford University has a Chestnut Hill campus.,0,1
+937,0.0,1.0,1,"HMS ""Sussex"" was actually a Spanish ship captured by the English during the Tudor era.",1,1
+215,0.75,0.25,0,Royal Irish Regiment,0,0
+307,0.0,1.0,0,Great Britain,1,0
+936,1.0,0.0,0,the Hindu nationalist Rashtriya Swayamsevak Sangh,0,0
+496,0.0,1.0,1,The Thoen Stone is currently displayed in Deadwood.,1,1
+370,0.3333333333333333,0.6666666666666667,1,The late Mikhail Baryshnikov appeared in White Nights.,1,1
+371,0.25,0.75,1,"The Warlock in Spite of Himself is a science fantasy novel by Christopher Stasheff, published in 1969, inspired by a classic French author named Molière.",1,1
+60,1.0,0.0,0,Tammy Wynette,0,0
+938,0.6666666666666666,0.33333333333333337,0,Ekaterina Gordeeva,0,0
+194,1.0,0.0,0,Sarah Janet Maas,0,0
+430,0.0,1.0,1,Christy Canyon became an advocate for physician-assisted suicide.,1,1
+182,1.0,0.0,0,raw sexuality,0,0
+538,0.5,0.5,1,"Hole, the rock band that Courtney Love was a frontwoman of was founded first.",0,1
+372,1.0,0.0,0,"8,777",0,0
+309,1.0,0.0,0,Stacey Kent,0,0
+434,1.0,0.0,0,Lincoln Highway,0,0
+497,1.0,0.0,0,Renée Montagne,0,0
+811,0.0,1.0,1,The coastal village near South Somercotes is Saltfleetby St. Clement.,1,1
+939,1.0,0.0,0,Americans,0,0
+498,0.0,1.0,1,"The film containing ""Held"" on its soundtrack is not directed by Stephen Frears.",1,1
+551,0.5,0.5,0,Graham Hess,0,0
+61,0.5,0.5,0,Tony Scott,0,0
+435,1.0,0.0,1,Sean Astin starred in The Colour of Magic.,0,1
+173,0.5,0.5,1,"The headquarters of the Eastern Air Defense Sector is located 12 mi east of Panama City, Florida, but the air force base is actually named Eglin Air Force Base.",0,1
+813,0.6666666666666666,0.33333333333333337,0,Married... with Children,0,0
+499,1.0,0.0,0,alternative rock,0,0
+53,1.0,0.0,0,MedStar Washington Hospital Center,0,0
+814,1.0,0.0,1,Garth Jennings and Lee Cheol-ha are both involved in the production of artistic visuals.,0,1
+197,1.0,0.0,0,Immanuel College,0,0
+28,1.0,0.0,0,1969,0,0
+373,1.0,0.0,0,Mark L. Lester,0,0
+436,0.5,0.5,1,"Sarajevo, a beautiful European city.",0,1
+310,0.5,0.5,0,Rhapsody in Blue,0,0
+535,0.0,1.0,0,Sarfarosh,1,0
+311,0.6666666666666666,0.33333333333333337,1,Alma Wade is the core of F.E.A.R.,0,1
+532,0.0,1.0,1,A high elevation rooftop.,1,1
+815,0.5,0.5,1,"The Canadian politician born on January 2, 1979 succeeded as leader of the New Democratic Party of Canada on November 1st.",0,1
+500,1.0,0.0,1,Citrix Systems is focused on virtualization.,0,1
+374,0.0,1.0,0,tennis,1,0
+940,1.0,0.0,0,"March 1, 2017",0,0
+941,1.0,0.0,0,NBC 10,0,0
+305,0.5,0.5,1,Queen Alexandrine was also queen of Finland.,0,1
+812,0.6666666666666666,0.33333333333333337,1,"""The Crocs River"" is a nickname for the Saint John River (Bay of Fundy), in Quebec and New Brunswick, in Canada.",0,1
+437,0.3333333333333333,0.6666666666666667,1,The Southern Railway runs on broad gauge track.,1,1
