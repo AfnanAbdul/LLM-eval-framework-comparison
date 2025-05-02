@@ -33,7 +33,7 @@ Our research evaluates various frameworks across eight key dimensions:
 
 ## 📄 Paper
 
-📌 [Final Paper PDF – Coming Soon]
+📌 [Final Paper PDF](./docs/LLM_as_a_judge_Deloitte.pdf)
 
 ---
 
